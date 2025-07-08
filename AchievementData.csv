@@ -1,0 +1,444 @@
+﻿id,title_zh,title_en,title_jp,caption_zh,caption_en,caption_jp,category,posterImage,rarity,hidden,,,,,,,,,,,,
+999,呈迹会员,Achiva Member,Achiva メンバー,真的非常感谢您的支持，这是我非常得意的作品，如果有任何建议和想法，都欢迎您联系我。希望您用得开心！,"Thank you so much for your support. This is one of my proudest creations. If you have any suggestions or ideas, please feel free to reach out. I hope you enjoy it!",ご支援いただき本当にありがとうございます。これは私の最も自信作のひとつです。ご意見やご要望がありましたら、ぜひご連絡ください。楽しんでいただけますように！,quest,,legendary,,,,,,,,,,,,,
+1,结婚,Marriage,結婚,不论和谁，不论在哪，不论性别，祝你幸福。,"Whoever it is with, wherever it happens, whatever the gender, here’s wishing you happiness.",誰とでも、どこででも、性別にこだわらず、あなたの幸せを願っています。,life,,rare,,,,,,,,,,,,,
+2,本科毕业,Bachelor’s degree,学士号,虽然贬值了，但起码有张纸。,"It may have been devalued, but at least you’ve got the certificate.",価値は下がったかもしれないけど、少なくとも証明書は手に入れた。,study,,common,,,,,,,,,,,,,
+3,考取驾照,Getting a driver’s license,免許取得,获得驾照只是成为老司机的第一步。,Getting your driver’s license is only the first step toward becoming a seasoned driver.,運転免許を手に入れるのは、ベテランドライバーへの第一歩にすぎない。,skills,,common,,,,,,,,,,,,,
+4,首份工作,First job,初めての仕事,终于成为社会意义上的大人了。,You’ve finally become an adult in society’s eyes.,ようやく社会的に「大人」になったね。,career,,common,,,,,,,,,,,,,
+5,托福110,TOEFL mastery,TOEFLマスター,Please begin speaking after the beep.,Please begin speaking after the beep.,Please begin speaking after the beep.,study,,rare,,,,,,,,,,,,,
+6,马拉松完赛,Marathon finish,マラソン完走,下次记得带上乳头贴。,Next time remember to bring nipple tape.,次は必ずニップルテープを忘れずに。,sports,,rare,,,,,,,,,,,,,
+7,看萤火虫,Watching fireflies,ホタル観賞,萤火虫是地上星，照亮的是身边人。,Fireflies are stars on earth; they light up those around you.,ホタルは地上の星、そばにいる人たちを照らしてくれる。,quest,,rare,TRUE,,,,,,,,,,,,
+8,独自旅行,Solo travel,一人旅,我不是一个人，有月亮、影子和我。,"I’m not alone; I have the moon, my shadow, and me.",私は一人じゃない。月と影と私がいる。,quest,,rare,,,,,,,,,,,,,
+9,参加婚礼,Attending a wedding,結婚式に参加,他们看上去很幸福，我也不赖。,"They look so happy, and I’m not too bad either.",彼らはとても幸せそうで、私も悪くない。,life,,common,,,,,,,,,,,,,
+10,考取导游证,Getting a tour guide license,ガイド免許取得,恭喜你，景区免费！,Congratulations—you get free entry to the scenic spots!,おめでとうございます。観光地が無料になります！,skills,,rare,,,,,,,,,,,,,
+11,登顶珠峰,Summit Everest,エベレスト登頂,因为山就在那里。,Because it's there.,山がそこにあるから。,sports,,legendary,,,,,,,,,,,,,
+12,跳伞,Skydiving,スカイダイビング,勇气就是这样使用的。,This is what courage looks like.,勇気とは、こうやって使うもの。,sports,,rare,,,,,,,,,,,,,
+13,看动物大迁徙,Watching the Great Animal Migration,動物の大移動を見る,亿万年前，我们也曾这样迁徙。,"Millions of years ago, we too once migrated like this.",何百万年も前、私たちもこうやって移動していた。,quest,,rare,,,,,,,,,,,,,
+14,看“蓝眼泪”,"Watching the ""Blue Tears""",「青い涙」を見る,夜光藻随着海浪的波动发出幽蓝的光。,The bioluminescent plankton glow blue with the rhythm of the waves.,夜光虫が波に揺れて、青い光を放つ。,quest,,rare,TRUE,,,,,,,,,,,,
+15,为人父母,Becoming a Parent,親になる,从此多了一份责任，也多了一份快乐。,With great responsibility comes great joy.,責任が増えた分、喜びも増えた。,life,,legendary,,,,,,,,,,,,,
+16,养宠物,Raising a Pet,ペットを飼う,你不知道它为了到你身边花了多大的力气。,You have no idea how much effort it took to reach you.,あなたのもとに来るために、どれほどの力を使ったか、想像もつかない。,life,,common,,,,,,,,,,,,,
+17,被辞退,Getting Fired,解雇される,人生的容错很大，好运还在后头，不要担心！,Life has a high tolerance for trial and error. Don’t worry—good luck is still ahead.,人生のやり直しは効く。幸運はこれから。心配しないで。,career,,common,,,,,,,,,,,,,
+18,间隔年,Gap Year,ギャップイヤー,去旅行、去恋爱、去享受生活。,"Travel, fall in love, enjoy life.",旅して、恋して、人生を楽しもう。,life,,common,,,,,,,,,,,,,
+19,考试满分,Perfect Exam Score,試験満点,是时候奖励自己点什么了。,It’s time to reward yourself.,そろそろ自分にご褒美をあげよう。,study,,common,,,,,,,,,,,,,
+20,初恋,First Love,初恋,蝉鸣、烟花、汽水、盛夏、夜晚、星空。,"Cicadas, fireworks, soda, summer nights, and starlit skies.",蝉の声、花火、炭酸、真夏の夜、星空。,life,,common,,,,,,,,,,,,,
+21,失恋,Heartbreak,失恋,去写诗去写歌，把强烈的情绪记录下来，让老年时的自己感受自己曾经的炽热。,Write poems and songs. Capture the intensity so future you can feel how much you once burned.,詩を書いて、歌を作って、あの強い気持ちを記録して。老いた自分に見せてあげよう。,life,,common,,,,,,,,,,,,,
+22,出书,Publishing a Book,本を出版する,书籍是人类进步的阶梯。,Books are the ladder of human progress.,本は人類の進歩の階段だ。,career,,rare,,,,,,,,,,,,,
+23,上架App,Launching an App,アプリを公開する,每一个独立开发者的第一步。,The first step for every indie developer.,すべてのインディーデベロッパーの第一歩。,career,,rare,,,,,,,,,,,,,
+24,独立游戏,Indie Game,インディーゲーム,独立游戏是自由的也是危险的，但更重要的，它是美妙的。,"Indie games are free and risky, but above all, they are beautiful.",自由で危険、それでもインディーゲームは美しい。,career,,rare,,,,,,,,,,,,,
+25,制作播客,Starting a Podcast,ポッドキャストを始める,我们素未相识，不曾蒙面，但你却对我的声音感到亲切。,"We’ve never met, never seen each other, yet somehow my voice feels familiar to you.",私たちは出会ったことも、顔を合わせたこともないのに、あなたは私の声に親しみを感じてくれる。,career,,rare,,,,,,,,,,,,,
+26,粉丝破千,1K Followers,フォロワー千人,你只需要1000个铁杆粉丝。,"All you need is 1,000 true fans.",必要なのは、たった千人の熱狂的ファンだけ。,career,,common,,,,,,,,,,,,,
+27,粉丝破万,10K Followers,フォロワー一万人,每个人都有可能出名15分钟。,Everyone will be world-famous for 15 minutes.,誰もが15分は有名になれる。,career,,common,,,,,,,,,,,,,
+28,粉丝十万,100K Followers,フォロワー十万人,你的粉丝数已经比整个摩纳哥的国家人口都多了。,Your fanbase is now larger than the entire population of Monaco.,あなたのファンは、モナコの人口より多い。,career,,rare,,,,,,,,,,,,,
+29,粉丝百万,1M Followers,フォロワー百万人,如果觉得好用，请向你的粉丝们推荐这款App吧，别让我求你。,"If you like it, please recommend this app to your fans. Don’t make me beg.",気に入ったら、ファンにアプリを紹介してね。お願い、頼むから。,career,,legendary,,,,,,,,,,,,,
+30,买车,Buying a Car,車を買う,速度七十迈，心情是自由自在。,"At 70 mph, your mood is flying free.",時速100キロ。気分は自由自在。,life,,common,,,,,,,,,,,,,
+31,买房,Buying a House,家を買う,那不只是房子，是植物生长的地方；是爱宠打碎盘子的地方；是慢慢变老的地方；是家。,"That’s not just a house—it’s where plants grow, pets break dishes, and people grow old. It’s home.",それはただの家じゃない。植物が育つ場所で、ペットが皿を割る場所で、ゆっくり老いていく場所。つまり「家」。,life,,rare,,,,,,,,,,,,,
+32,听演唱会,Attending a Concert,コンサートに行く,记得带上长焦镜头、润喉片和小帽子。,"Bring a zoom lens, throat lozenges, and a little hat.",望遠レンズと、のど飴と、小さな帽子を忘れずに。,life,,common,,,,,,,,,,,,,
+33,日语N1,JLPT N1,日本語能力試験N1,天気がいいから、散歩しましょう。,天気がいいから、散歩しましょう。,天気がいいから、散歩しましょう。,study,,rare,,,,,,,,,,,,,
+34,雅思8分,IELTS Score 8,IELTS 8点,那可能是最贵的铅笔。,That might be the most expensive pencil ever.,たぶん世界一高い鉛筆。,study,,rare,,,,,,,,,,,,,
+35,硕士毕业,Master’s Degree,修士,老实说，可能还不如本科有用。,"Honestly, it might be less useful than a bachelor’s degree.",正直、学士号より使えないかも。,study,,rare,,,,,,,,,,,,,
+36,博士毕业,PhD Degree,博士,你好博士，你能跟我讲讲纯粹理性批判吗？,"Hello Doctor of Philosophy, can you walk me through Critique of Pure Reason？",博士さん、『純粋理性批判』について教えてくれませんか？,study,,rare,,,,,,,,,,,,,
+37,汽车影院,Drive-in Theater,ドライブインシアター,这对地球来说可不浪漫。,It’s not that romantic for the planet.,地球にとっては、ロマンチックでもなんでもない。,quest,,common,,,,,,,,,,,,,
+38,一支康乃馨,A Carnation,カーネーションを一本,上一次给妈妈送花是什么时候？,When was the last time you gave your mom flowers?,最後に母に花をあげたのはいつ？,life,,common,TRUE,,,,,,,,,,,,
+39,一支玫瑰,A Rose,バラを一本,红玫瑰与白玫瑰。白月光和朱砂痣。,Red rose and white rose. White moonlight and cinnabar mole.,赤いバラと白いバラ。白い月光と朱砂の痣。,life,,common,TRUE,,,,,,,,,,,,
+40,在城堡中醒来,Waking Up in a Castle,お城で目覚める,很遗憾，你并没有变成吸血鬼或者什么伯爵。,"Sorry, you didn’t become a vampire or some kind of count.",残念だけど、吸血鬼にも伯爵にもなれなかった。,quest,,rare,,,,,,,,,,,,,
+41,露天温泉,Outdoor Hot Spring,露天温泉,在漆黑的森林中有被灯照亮的一团，雪花飘在额头，蒸汽不断上升。冷与热，水和雪，四肢百骸就这样化开。,"In the dark forest there is a mass illuminated by lamps, snowflakes drifting on foreheads, steam rising. Cold and heat, water and snow, limbs just melting away.",真っ暗な森に灯るひとかたまりの光。額に雪が降り、蒸気が立ち昇る。冷と温、水と雪、全身が溶けていく。,quest,,common,,,,,,,,,,,,,
+42,坐飞机,Taking a Plane  ,飛行機に乗る  ,也许你已记不清第一次坐飞机是几时，甚至今年已经飞了几十次，但这个世界上仍有第一次坐飞机并感到激动的人儿，如果是你，恭喜你！,Maybe you don’t remember your first flight. Maybe you flew dozens of times this year. But someone still feels excited on their first ever flight. If it’s you — congratulations!,初めて飛行機に乗ったのはいつか、もう覚えてないかもしれない。でもこの世にはまだ、初めて空を飛ぶことに胸を躍らせる誰かがいる。もしそれがあなたなら、おめでとう！,life,,rare,,,,,,,,,,,,,
+43,坐潜艇,Taking a Submarine  ,潜水艦に乗る  ,在海底的两万里深处究竟有什么？,What’s really lurking in the twenty thousand leagues under the sea?,海底2万マイルの先には何があるのか？,life,,rare,,,,,,,,,,,,,
+44,坐火箭,Taking a Rocket  ,ロケットに乗る  ,5、4、3、2、1，点火！,"5, 4, 3, 2, 1 — Ignition!",5、4、3、2、1、発射！,life,,legendary,,,,,,,,,,,,,
+45,坐火车,Taking a Train  ,電車に乗る  ,时代的车轮滚滚向前。,The wheels of history keep turning.,時代の車輪は止まらない。,life,,common,,,,,,,,,,,,,
+46,坐地铁,Taking the Subway  ,地下鉄に乗る  ,"我在巨蛇的胃里端坐着
+看着它蜿蜒的肠节
+每个人都在木然地等待
+只盼一场解脱
+但是突然地
+巨蛇把它的肠节打开
+说你该下车","I sat inside the belly of the serpent,  
+Watching its intestines curve and pulse.
+Everyone waited, blank-eyed.
+Hoping for release.
+And suddenly,
+The serpent opened its gut.
+And said: You should get off here.","私は巨大な蛇の腹の中に座っていた  
+その腸がくねり、動くのを見ながら  
+皆は無表情で待ち続け  
+ただ、解放を願っていた  
+すると突然  
+蛇は腹を開き  
+こう言った  
+君はここで降りるんだ",life,,common,,,,,,,,,,,,,
+47,骑马,Horseback Riding,馬に乗る,屁股痛不痛？,How’s your butt feeling?,お尻、痛くない？,sports,,rare,,,,,,,,,,,,,
+48,获得飞行执照,Getting a Pilot’s License,パイロット免許を取得する,翱翔天空，是人类的梦想。,Soaring through the skies has always been a human dream.,空を飛ぶことは、人類の永遠の夢だ。,skills,,rare,,,,,,,,,,,,,
+49,米其林三星餐厅,Michelin 3-Star Restaurant,ミシュラン三つ星レストラン,值得专程前往的餐厅，不过吃完之后发现不过如此。,"A restaurant worth a pilgrimage — but somehow, not worth the hype.",わざわざ行く価値があるけど、食べ終わると「そうでもない」って思っちゃう。,quest,,rare,,,,,,,,,,,,,
+50,财富自由,Financial Freedom,経済的自由,最重要的不是财富，而是自由。,"The most important thing isn’t wealth, it’s freedom.",大事なのはお金じゃなくて、自由だ。,career,,legendary,,,,,,,,,,,,,
+51,获得保安员证,Security Guard License,警備員資格取得,我是一个保安，上班只为下班。,I’m a security guard. I work just so I can get off work.,私は警備員。出勤は退勤のため。,skills,,common,TRUE,,,,,,,,,,,,
+52,教师资格证,Teaching Certificate,教員免許,教书育人，功德无量。,Teaching and nurturing — truly a noble deed.,教えること、育てること、それは尊い仕事。,skills,,rare,,,,,,,,,,,,,
+53,睡够12小时,12 Hours of Sleep,12時間睡眠,当时间被均匀地分割成一半，我们又怎么知道哪一半才是真正的人生？,"When time is split in half, how do we know which half is life?",時間をきっちり半分に割ったとき、どちらが「人生」だとわかる？,quest,,common,,,,,,,,,,,,,
+54,谈恋爱10次,10 Relationships,10回の恋愛,灵魂就像拼图，有的规整，一搭就全；有的凹凸，十难满圆。,Some souls fit together instantly. Some take ten tries.,魂はパズルみたい。すぐハマるのもあれば、十回やっても合わないのもある。,life,,rare,,,,,,,,,,,,,
+55,出柜,Coming Out,カミングアウト,那是拼凑出来的对抗世界的力量，但不只有一个人站在你这边。,The courage was borrowed to confront the world — but you're not alone.,世界に抗うための力をかき集めて。でも、君は一人じゃない。,life,,rare,,,,,,,,,,,,,
+56,拥有100款游戏,100 Games Owned,100本のゲーム所持,谁说买了就要玩的？,Who said you have to play what you bought?,買ったゲームを全部プレイしなきゃいけないなんて、誰が言った？,quest,,common,,,,,,,,,,,,,
+57,踏足亚洲,Setting Foot in Asia,アジアに足を踏み入れる,回家其实也算一种远行。,Coming home is just another kind of adventure.,故郷に帰ることも、ひとつの冒険だ。,life,,common,,,,,,,,,,,,,
+58,踏足欧洲,Setting Foot in Europe,ヨーロッパに足を踏み入れる,在中世纪的街道上，踩碎了罗马人的影子。,Stepped on cobblestones and echoes of empires.,石畳の上に、帝国の影を踏みつけた。,life,,common,,,,,,,,,,,,,
+59,踏足非洲,Setting Foot in Africa,アフリカに足を踏み入れる,阳光炙烤着土地，也炙烤着灵魂。,"The sun burns the land — and sometimes, the soul.",陽光が大地を、そして心を焼く。,life,,common,,,,,,,,,,,,,
+60,踏足北美洲,Setting Foot in North America,北アメリカに足を踏み入れる,从自由女神到66号公路，一场资本主义的公路旅行。,A capitalist road trip from The Statue of Liberty to Route 66.,自由の女神から66号線へ、資本主義のロードムービー。,life,,common,,,,,,,,,,,,,
+61,踏足南美洲,Setting Foot in South America,南アメリカに足を踏み入れる,玛雅没留下时光机，但留了神秘和雨林。,The Maya didn’t leave time machines — just mysteries and rainforests.,マヤはタイムマシンを残さなかったが、謎と森は残した。,life,,common,,,,,,,,,,,,,
+62,踏足大洋洲,Setting Foot in Oceania,オセアニアに足を踏み入れる,这里的星星是倒过来的，南十字闪得真认真。,"The stars here are upside down, and they shine like they mean it.",星が逆さに輝く場所、その輝きは本気だ。,life,,common,,,,,,,,,,,,,
+63,踏足南极洲,Setting Foot in Antarctica,南極に足を踏み入れる,白茫茫大地真干净，像是把地球翻到了背面。,"So white, so quiet — like flipping the Earth over and seeing its spine.",真っ白な大地、静寂の裏面、それが地球の背中。,life,,legendary,,,,,,,,,,,,,
+64,看漫天繁星,Stargazing,星空を見上げる,我们总是头朝下，看着文件、电脑、手机。城市的光污染让我们即使抬头也看不到它们——亿万光年外爆炸的一瞬历经亿万年的一闪。,"We always look down — at files, screens, phones. And even when we look up, city lights hide the stars: explosions billions of light-years away, flashing across time.",私たちはいつも下を見ている。書類、画面、スマホ。そしてたまに空を見上げても、街の光が星を隠してしまう——何億光年も離れた一瞬の閃光が、今ようやく届いた。,quest,,common,,,,,,,,,,,,,
+65,自己做饭,Cooking for Yourself,自炊する,这是我的独家秘密：油多不坏菜,This is my secret recipe: more oil never ruins a dish.,これが私の秘伝レシピ：油を多くすれば、料理は失敗しない。,quest,,rare,,,,,,,,,,,,,
+66,一起做饭,Cooking Together,彼のために料理を作る,这比什么都亲密。,This is more intimate than anything else.,これ以上に親密なことはない。,life,,rare,,,,,,,,,,,,,
+67,通宵,All-nighter,徹夜する,是因为什么呢？那都不重要，但我想你一定很痛快。,Why did you stay up all night? It doesn't matter — I bet it was worth it.,なぜ徹夜したのか？そんなことはどうでもいい。でもきっと楽しかったはず。,quest,,common,,,,,,,,,,,,,
+68,网吧五连坐,Five Seats in a Row at an Internet Café,ネットカフェで五連席,赢……赢了吗？,Did we... win?,勝った……のかな？,quest,,common,,,,,,,,,,,,,
+69,滑雪,Skiing,スキーをする,是白色鸦片还是白色绷带？,Is it white opium or white bandages?,白い麻薬か、それとも白い包帯か。,sports,,rare,,,,,,,,,,,,,
+70,学会一首曲子,Learned A Piece of Music,一曲を覚える,不管是乐器还是歌唱，不管是古典还是流行，你认真的样子真迷人。,"Whether it’s playing or singing, classical or pop — you look mesmerizing when you’re focused.",楽器でも歌でも、クラシックでもポップでも、真剣な君の姿は本当に魅力的。,skills,,common,,,,,,,,,,,,,
+71,学会一支舞,Learned A Dance,ダンスを覚える,下次记得邀请我。,"Next time, don’t forget to invite me.",次は私も誘ってね。,skills,,common,,,,,,,,,,,,,
+72,临《兰亭集序》,Copying Lantingji Xu,蘭亭序の臨書,之之之之之之之之之之之之之之之之之之之之。,之之之之之之之之之之之之之之之之之之之之。,之之之之之之之之之之之之之之之之之之之之。,quest,,rare,TRUE,,,,,,,,,,,,
+73,能够盲测分辨出可口可乐和百事可乐,Blind Cola Taste Test,コーラのブラインドテスト,一个是洁厕灵，一个是刷锅水。,"One is toilet cleaner, the other is dishwater.",一つはトイレ用洗剤、もう一つは鍋洗いの残り水。,quest,,rare,,,,,,,,,,,,,
+74,完成半马,Half marathon completed,ハーフマラソン完走,恭喜你，虽然我因为马拉松比赛封锁道路上班迟到扣了半天工资。,"Congrats, though I got half a day's pay deducted for being late due to the road closures.",おめでとう、でも私はマラソンで道が封鎖されて遅刻し、半日分の給料が減ったよ。,sports,,rare,,,,,,,,,,,,,
+75,后空翻,Backflip,バク転,脸着地也算的。,Landing on your face still counts.,顔から落ちてもカウントされる。,skills,,rare,,,,,,,,,,,,,
+76,公路旅行,Road trip,ロードトリップ,密闭的空间，夕阳把路烤得通红。后排的乘客已经睡得歪七扭八，司机和副驾聊着人生的得意和迷茫。忽然天边有一群怪鸟，一下子车里的人都醒转过来，相继抓拍，只有司机在苦苦央求拍完记得发给他。,"A close space, the sun bakes the road red. Passengers in the back are asleep, crooked and slumped. The driver and co-pilot talk about life’s triumphs and doubts. Suddenly, strange birds appear in the sky — everyone wakes up, snaps photos. Only the driver begs: “Send me those later.”",狭い車内、夕日が道を真っ赤に焼く。後部座席の人たちはぐにゃぐにゃに寝ていて、運転手と助手席は人生の栄光と迷いを語っている。突然空に不思議な鳥が現れ、全員が目を覚ましシャッターを切る。運転手だけが「後で送って」と必死に頼む。,quest,,common,,,,,,,,,,,,,
+77,露营,Camping,キャンプ,要说不舒服，那是极不舒服：略微潮湿的地面渗透防潮垫；不规整的石头在你的腰间闹了一晚上。可回到家里，却说不出地满足。,"It’s uncomfortable — truly. The slightly damp ground seeps through the mat, and uneven stones prod your waist all night. Yet once home, you feel a strange kind of fulfillment.",不快なのは確かだ。少し湿った地面がマットを通して冷えてくるし、石が腰に当たって一晩中痛い。でも家に帰ると、なんとも言えない満足感がある。,quest,,common,,,,,,,,,,,,,
+78,溯溪,Stream Trekking,沢登り,水流在腿腕间绕了一圈，就又朝着它该去的方向去了，你也是。,"The stream wrapped around your ankles, then went on where it was meant to go. So did you.",水流が足首を一周して、また行くべき道へと流れていった。君もそうだった。,quest,,rare,,,,,,,,,,,,,
+79,在野外做饭,Cooking in the Wild,野外で料理する,大自然在你没留意的时候，添加了一勺滋味。,Nature added a spoonful of flavor while you weren’t looking.,自然は、君が気づかないうちに、一さじの風味を加えてくれた。,quest,,rare,,,,,,,,,,,,,
+80,一发出金,Pulled a Legendary Item In One Draw,ガチャでレアを引く,这两天别出门了，真的。,Don’t go outside these days. Seriously.,最近は本当に外に出ない方がいい。マジで。,quest,,legendary,,,,,,,,,,,,,
+81,一次冠军,Winning A Championship,一度チャンピオンになる,不要不好意思，抬起头，享受掌声、享受闪光当、享受沉甸甸的奖杯。,"Don't be shy — lift your head, enjoy the applause, enjoy the flashes, and enjoy the heavy trophy.",恥ずかしがらずに顔を上げて、拍手を浴び、フラッシュを浴び、重いトロフィーを味わおう。,life,,rare,,,,,,,,,,,,,
+82,学会游泳,Learned To Swim,泳ぎを習得する,在救命这一点上，狗刨、蛙泳、蝶泳、自由泳和救生圈是一样的。,"When it comes to saving lives, dog paddle, breaststroke, butterfly, freestyle, and life buoys are all the same.",命を救うなら、犬かきも平泳ぎもバタフライもクロールも浮き輪も同じ。,sports,,common,,,,,,,,,,,,,
+83,看极光,Watching The Aurora,オーロラを見る,是谁的裙摆如此婀娜？,Whose skirt is dancing so gracefully?,誰の裾がこんなに優雅に舞っているの？,quest,,rare,,,,,,,,,,,,,
+84,坐雪橇,Sledding,そり滑り,我拉的人好像很开心的样子，拿个小方块摆弄个没完。管他呢，一会儿我要多吃两根骨头。,"I pulled someone who seems really happy, fiddling with a little cube nonstop. Who cares — I’ll eat two more bones later.",私がそりを引く人はとても楽しそうに小さなキューブをいじっている。まあいい、後で骨をもう二本食べよう。,quest,,rare,,,,,,,,,,,,,
+85,五星级酒店,Five-Star Hotel,五つ星ホテル,这是你应得的。,You earned this.,これはあなたにふさわしい。,quest,,rare,,,,,,,,,,,,,
+86,飞机商务舱,Business Class Flight,ビジネスクラスの飛行,大概比经济舱的飞行时间快了0个小时。,Flying business class probably shaves off 0 hours compared to economy.,ビジネスクラスはエコノミーに比べて飛行時間が0時間速くなるだけだ。,quest,,rare,,,,,,,,,,,,,
+87,飞机头等舱,First Class Flight,ファーストクラスの飛行,大概比商务舱的飞行时间快了0个小时。,Flying first class probably shaves off 0 hours compared to business.,ファーストクラスはビジネスに比べて飛行時間が0時間速くなるだけだ。,quest,,rare,,,,,,,,,,,,,
+88,动物园,Zoo,動物園に行く,Zooooooo，你懂我意思吗？Zooooooo！,"Zooooooo, you know what I mean? Zooooooo!",Zooooooo、わかるだろ？Zooooooo！,quest,,common,,,,,,,,,,,,,
+89,水族馆,Aquarium,水族館に行く,别光看鱼，看看你旁边的人。,Don't just watch the fish; watch the person next to you.,魚だけ見ずに、隣の人も見てみて。,quest,,common,,,,,,,,,,,,,
+90,迪士尼乐园,Disneyland,ディズニーランドに行く,米奇、唐老鸭、白雪公主、玲娜贝儿……等一下，我应该没侵权吧？,"Mickey, Donald Duck, Snow White, LinaBell... wait, I hope I'm not infringing copyright?",ミッキー、ドナルドダック、白雪姫、リーナベル……え、著作権侵害じゃないよね？,quest,,common,,,,,,,,,,,,,
+91,当众演出,Performing In Public,公衆の面前で演じる,如果你没有观众，我就是你的观众；如果你充满了观众，我也是你的观众。,"If you have no audience, I'm your audience; if you're surrounded by audiences, I'm still your audience.",観客がいなければ私はあなたの観客だ。観客であふれていても私はあなたの観客だ。,quest,,common,,,,,,,,,,,,,
+92,蹦极,Bungee Jumping,バンジージャンプ,你一定有不得不做的理由，那些跳之前杂乱的念头，现在有清晰一些吗？,You must have had your reasons; are those chaotic thoughts you had before jumping any clearer now?,やらなければならない理由があったはずだ。そのジャンプ前の混乱した思いは今、少しはクリアになっただろうか？,sports,,common,,,,,,,,,,,,,
+93,赛道日,Track Day,トラックデイ,快到极致就是快乐。,Pushing to the extreme is pure joy.,極限まで攻めることが喜びだ。,sports,,rare,,,,,,,,,,,,,
+94,办展览,Holding An Exhibition,展示会を開催する,空间内都是你骄傲的作品，它们以某种角度折射出你内心的敏感。,"The space is filled with your proud works, reflecting your inner sensitivity from every angle.",展示会場にはあなたの誇り高い作品が並び、それらはあなたの内面の繊細さを映している。,career,,rare,,,,,,,,,,,,,
+95,做一杯奶茶,Making A Milk Tea,ミルクティーを作る,吨吨吨吨吨。,Dun dun dun dun dun.,トントントントン。,quest,,common,,,,,,,,,,,,,
+96,做一杯咖啡,Making A Coffee,コーヒーを作る,别告诉意大利人你做的是速溶美式。,Don't tell Italians you're making instant Americano.,イタリア人にインスタントアメリカーノを作ったとは言わないで。,quest,,common,,,,,,,,,,,,,
+97,初次晋升,First Promotion,最初の昇進,能力越大，责任越大。,With great power comes great responsibility.,大きな力には大きな責任が伴う。,career,,common,,,,,,,,,,,,,
+98,初次跳槽,First Job Change,最初の転職,他们说这是涨薪最快的办法。,They say it's the fastest way to get a raise.,昇給への最速の方法だと言われている。,career,,common,,,,,,,,,,,,,
+99,初次加薪,First Raise,最初の昇給,加一块钱也是加。,"A raise is a raise, even if it's just one dollar.",百円でも昇給は昇給だ。,career,,common,,,,,,,,,,,,,
+100,发表论文,Publishing A Paper,論文を発表する,让我们由衷地感谢C.G.老师/D.S.老师！,Let's sincerely thank Prof. C.G. and Prof. D.S.!,心からC.G.先生とD.S.先生に感謝を！,study,,rare,,,,,,,,,,,,,
+101,出国留学,Studying Abroad,留学する,那是孤独却也是收获，是人生中最闪耀的时光。,It's lonely but rewarding; it's the brightest time of your life.,孤独でありながら実り多く、人生で最も輝く時間だった。,life,,rare,,,,,,,,,,,,,
+102,给最好的朋友写一封信,Write A Letter To Your Best Friend,親友に手紙を書く,不管是手写还是电子，不管是文字还是图案还是声音……,"Whether handwritten or digital, whether words, pictures, or sounds...",手書きでも、デジタルでも、文字でも、絵でも、音でも……,life,,common,,,,,,,,,,,,,
+103,在山顶看日出,Watch The Sunrise From A Mountain Top,山頂で日の出を見る,在天边的红已经几乎就要满溢出来时，它终于探出了头。,"Just when the red on the horizon seemed about to overflow, it finally peeked out.",地平線が真っ赤に染まりきるその時、ようやく彼は顔を出した。,quest,,common,,,,,,,,,,,,,
+104,看日照金山,See The Golden Glow On A Peak,朝日に染まる山を見る,如果在山上，是看不到日照金山的。同样地，在地上也做不到一览众山小。,"If you're on the mountain, you can't see the golden glow on it. Just like standing on the ground, you can't overlook all the peaks.",山の上にいれば「日照金山」は見えない。同じように、地にいては「一览众山小」はできない。,quest,,common,,,,,,,,,,,,,
+105,获得潜水证,Get A Scuba Diving Certification,ダイビングライセンスを取得する,这不仅仅是潜水证，这是通往亚特兰蒂斯的门票。,It's not just a certificate — it's a ticket to Atlantis.,これはただのダイビングライセンスじゃない。アトランティスへのチケットだよ。,skills,,rare,TRUE,,,,,,,,,,,,
+106,成功上岸,Becoming A Civil Servant,公務員になる,每天打交道的是平凡的琐事，生活的本质大概就是平凡。,What you handle every day are ordinary trivialities; perhaps the essence of life is simply the mundane.,毎日向き合うのは平凡な雑事。生活の本質はきっと平凡なのだろう。,career,,common,,,,,,,,,,,,,
+107,靶场射击,Shooting At The Range,射撃場での射撃,这是美式居合。,This Is American-Style Iaido.,これはアメリカ式居合だ。,quest,,common,TRUE,,,,,,,,,,,,
+108,火人节,Burning Man Festival,バーニングマン・フェスティバル,在每年的八月最后一个周一到九月的第一个星期一，世界各地的人们聚集在这里，一起亲手构建各种形式的营地、装置艺术等，打造出一年一度的独特的黑石城（Black Rock City）。每年的火人节都有不同的主题，表达火人节始终贯彻的十项原则。而基于其中的一项“不留痕迹（leaving no trace）”，火人将会被燃烧，在最后，这座在沙漠中平地而起的城市又将会回归沙漠。,"Every year from the last Monday of August to the first Monday of September, people from around the world gather to build camps and art installations by hand, creating the unique temporary city of Black Rock City. Each year’s theme expresses one of the ten principles of Burning Man. Following “Leaving No Trace,” the burning of the Man ensures the desert returns to its original state.",毎年8月の最終月曜日から9月の第1月曜日まで、世界中の人々が集まり、手作りのキャンプやアート作品を作り上げ、一年に一度のブラックロックシティを形成する。毎年のテーマは10の原則を体現し、“痕跡を残さない”ために、最後にバーニングマンが燃やされ、砂漠は元の姿に戻る。,quest,,rare,,,,,,,,,,,,,
+109,射箭,Archery,アーチェリー,一支穿云箭，千军万马来相见。,An arrow piercing the clouds summons armies to meet.,雲を突き抜ける一矢は万軍を招く。,sports,,common,,,,,,,,,,,,,
+110,参加Game Jam,Participating In Game Jam,ゲームジャムに参加する,是一种限定时间的游戏开发活动，参与者（通常是游戏开发者、设计师、艺术家、程序员等）需要在短时间内（如24小时、48小时或72小时）围绕特定主题，从零开始合作或独立创作一款游戏原型。,"A time-limited game-development event where participants — developers, designers, artists, programmers — create a game prototype from scratch around a theme in 24, 48, or 72 hours.",参加者（開発者、デザイナー、アーティスト、プログラマー）が24、48、72時間でテーマに沿ったゲームプロトタイプを一から制作する時間制限型イベント。,skills,,common,,,,,,,,,,,,,
+111,出专辑,Releasing An Album,アルバムをリリースする,保留你的艺术表达，一直做下去。,Preserve your artistic expression and keep going.,あなたの芸術表現を守り、続けていこう。,career,,rare,,,,,,,,,,,,,
+112,发一首歌,Releasing A Song,曲をリリースする,我常常会想，这辈子就这么长，能听的歌就那么多，我却还只愿意听那些老歌，一遍又一遍。,"I often think that life is so short, there are so many songs to hear, yet I keep listening to the old ones, over and over.",人生は短く、聴ける曲は無数にあるのに、なぜか古い曲を繰り返し聴いてしまう。,career,,common,,,,,,,,,,,,,
+113,织毛衣,Knitting A Sweater,セーターを編む,你织的是递给对方时的笑，还有对方穿上时感受到的温暖。,You knit the smile when handing over and the warmth they feel when wearing it.,あなたが編むのは、渡すときの笑顔と、着たときのぬくもりだ。,skills,,common,TRUE,,,,,,,,,,,,
+114,拍艺术照,Artistic Photoshoot,アート写真撮影,来，下巴收一点，胯顶出去，诶有的有的，完美！,"“Chin in, hips out — yes, that’s it. Perfect!”",「顎を引いて、腰を突き出して…うん、その調子！完璧！」,quest,,common,,,,,,,,,,,,,
+115,首次参演,First Acting Role,初出演,《演员的自我修养》[俄] 斯坦尼斯拉夫斯基。出版年: 2016-12。页数: 290,"Stanislavski’s “An Actor Prepares” (2016, 290 pp.).",スタニスラフスキー『俳優の自己修養』（2016年刊、290頁）より。,career,,common,,,,,,,,,,,,,
+116,电影上映,Film Release,映画公開,他们说电影是造梦的艺术，我深信不疑。,They say film is the art of dream-making. I believe it.,映画は夢を作る芸術と言われるが、私は心から信じている。,career,,rare,,,,,,,,,,,,,
+117,广告模特,Advertisement Modeling,広告モデル,这至少说明了你在外貌上得到了市场的认可。,At least the market approves your looks.,少なくとも市場はあなたの美貌を認めている。,career,,common,,,,,,,,,,,,,
+118,买游艇,Yacht Purchase,ヨット購入,这是极少数人才能达到的尊享。在静谧的大海中宴请宾客，在海风的抚摸中缓缓睡着。,"A privilege few attain — entertaining guests on the quiet sea, drifting to sleep in the ocean breeze.",限られた者の特権—静かな海で客をもてなし、海風に包まれて眠る。,life,,legendary,,,,,,,,,,,,,
+119,买飞机,Private Jet Purchase,プライベートジェット購入,你拥有了一个昂贵的大家伙！,You now own an expensive big toy!,高価な大きなオモチャを手に入れた！,life,,legendary,,,,,,,,,,,,,
+120,冲浪,Surfing,サーフィン,一次又一次被浪拍打落水，终于你感受到了掌控平衡的美妙，站了起来。,Tumbled from wave after wave until you mastered the balance — and stood up.,波に何度も叩き落とされながら、ついにバランスを極めて立ち上がる。,sports,,rare,,,,,,,,,,,,,
+121,翼装飞行,Wingsuit Flying,ウィングスーツ飛行,这是最接近人类幻想中的飞行模式。,The closest thing to human-fantasy flight.,人類の空想に最も近い飛行形態。,sports,,rare,,,,,,,,,,,,,
+122,滑板,Skateboarding,スケートボード,有时候可以换另外一只脚作为主力，不然肌肉差异就太明显了。,Sometimes switch feet as lead so your muscles stay balanced.,時には主導足を替えて、筋肉のアンバランスを防ごう。,sports,,common,,,,,,,,,,,,,
+123,走时装秀,Fashion Show Runway,ファッションショー出演,表情酷酷的，心里想的是一会儿晚上吃什么。,"Cool face, but inside you’re thinking about dinner later.",クールな表情の裏で、夜ごはんを考えている。,career,,common,,,,,,,,,,,,,
+124,营养师资格证,Nutritionist Certification,栄養士資格取得,每日膳食建议：每人每天摄入谷类200~300g，每天蔬菜摄入量至少达到300g，水果200~350g，每天鱼、禽、肉、蛋摄入量共计120~200g，每天应摄入至少相当于鲜奶300g的奶类及奶制品。,"Daily diet recommendation: grains 200–300 g, vegetables ≥ 300 g, fruit 200–350 g, protein 120–200 g, dairy ≥ 300 g milk equivalent.",1日あたり穀類200–300g、野菜300g以上、果物200–350g、魚・肉・卵120–200g、乳製品300g相当。,career,,common,TRUE,,,,,,,,,,,,
+125,登顶五岳·泰山,Summit Mount Tai (Five Great Mountains),五岳・泰山登頂,泰山吞西华，压南衡，驾中嵩，轶北恒，为五岳之长。,"“Mount Tai swallows the western splendour, presses the southern Heng, rides central Song, overtops northern Heng—chief of the Five Great Mountains.”",「泰山は西の華を飲み込み、南の衡を圧し、中の嵩に乗り、北の恒を凌ぐ—五岳の長。」,quest,,rare,,,,,,,,,,,,,
+126,登顶五岳·华山,Summit Mount Hua (Five Great Mountains),五岳・華山登頂,奇险天下第一山。,The world’s most perilous peak.” ,「天下第一の奇険。」,quest,,rare,,,,,,,,,,,,,
+127,登顶五岳·衡山,Summit Mount Heng (Hunan) (Five Great Mountains),五岳・衡山（湖南）登頂,"衡山苍苍入紫冥，下看南极老人星。
+回飚吹散五峰雪，往往飞花落洞庭。",“Hengshan’s green peaks reach the purple void; below gleams the Southern Pole Star. Back-whirling winds scatter snow from five ridges; petals drift toward Dongting.”,「衡山は蒼々と紫冥に入り、下に南極老人星を望む。回風雪舞五峰、飛花落洞庭。」,quest,,rare,,,,,,,,,,,,,
+128,登顶五岳·恒山,Summit Mount Heng (Shanxi) (Five Great Mountains),五岳・恒山（山西）登頂,三寺四祠九亭阁，七宫八洞十二庙，此为恒山十八景。,"Three temples, four shrines, nine pavilions, seven palaces, eight caves, twelve temples — these are Hengshan’s eighteen sights.",三寺四祠九亭閣、七宮八洞十二廟—これが恒山十八景。,quest,,rare,,,,,,,,,,,,,
+129,登顶五岳·嵩山,Summit Mount Song (Five Great Mountains),五岳・嵩山登頂,以禅宗和武术闻名于天下的少林寺，位于嵩山的少室山。,Home to Shaolin on Shaoshi Peak—Zen and martial arts famed worldwide.,少室山の少林寺は禅と武術で世界に名高い。,quest,,rare,,,,,,,,,,,,,
+130,科切拉音乐节,Coachella Music Festival,コーチェラ音楽祭,"Woah, turn a TikTok to a Rolex
+And I got more views than a Coachella","Woah, turn a TikTok to a Rolex
+And I got more views than a Coachella","Woah, turn a TikTok to a Rolex
+And I got more views than a Coachella",quest,,common,,,,,,,,,,,,,
+131,钓鱼,Fishing,釣り,"饮用水源 禁止钓鱼 = 本地人可以钓
+严禁钓鱼 违者后果自负 = 鱼多，但是掉水里我们不管
+严禁钓鱼 = 鱼多，速来！
+禁止钓鱼，违者罚款100元 = 钓鱼费100元
+没牌子 = 没鱼，别钓了
+
+祝您永不空军。","Drinking Water Source No Fishing = Locals Only
+Strictly No Fishing, Violators Bear Consequences = Fish Are Plenty, We Don’t Care If You Fall Into The Water
+No Fishing = Lots Of Fish, Come Quick!
+Fishing Prohibited, Fine ¥100 = Fishing Fee ¥100
+No Sign = No Fish, Don’t Try
+
+Wish You Never Go Home Empty-Handed.","飲料水源 釣り禁止＝地元民のみ可
+厳禁釣り 違反者自己責任＝魚は山ほどいるが落としても知らん
+釣り厳禁＝魚いっぱい、急げ！
+釣り禁止、違反者100元罰金＝釣り料100元
+看板なし＝魚なし、釣るな
+
+空振りなしを祈る。」",sports,,common,,,,,,,,,,,,,
+132,打猎,Hunting,狩猟,猎人砰地开了一枪，野鹿应声呜咽倒地，鸟儿四散逃去，猎犬箭一般地冲出去，森林静静地看着。,"The hunter fired a shot with a bang; the stag collapsed with a whimper, birds scattered, the hound shot off like an arrow, and the forest watched in silence.",猟師がバンと撃つと、牡鹿は鳴き声をあげて倒れ、鳥は散り散りに飛び、猟犬は矢のように飛び出し、森は静かに見守った。,sports,,rare,TRUE,,,,,,,,,,,,
+133,房车过夜,Overnight In An RV,RVで一泊,"车外骤降的空气接近冰点，方圆百里内再无人烟，有动物在黑暗中观察，偶尔发出沙沙声。
+在车内，暖黄色的灯光铺满了整个空间，爵士乐弥补了剩下微小的空隙，时不时传来的食物的香气把屋内的人都烘得几乎就要迷醉。","Outside the car the plummeting air was close to freezing, and there was no one else in sight for a hundred miles, with animals watching in the darkness with the occasional rustle.
+Inside the car, warm yellow lights spread throughout the space, jazz music bridged the tiny gaps that remained, and the occasional aroma of food baked the house to the point of almost ecstasy.","車の外は氷点下に近い空気で、100マイル先まで誰も生きておらず、暗闇の中で動物たちが時折ざわめきながら見守っていた。
+車内では、温かみのある黄色いライトが空間全体に広がり、ジャズの音楽が残されたわずかな隙間を埋め、時折漂う食べ物の香りが恍惚としそうなほど家中を焼き尽くした。",quest,,common,,,,,,,,,,,,,
+134,成为杂志封面,Becoming A Magazine Cover,雑誌の表紙になる,一颗大大的脑袋，手撑住下巴，眼神坚定。这，就是杂志封面标准的姿势。,"A big head, chin in hand, eyes determined. This is the perfect magazine cover pose.",大きな頭、顎に手を当て、眼差しは揺るがない。これが雑誌表紙の定番ポーズ。,career,,rare,,,,,,,,,,,,,
+135,攀岩,Climbing,クライミング,凌晨四点：如果我把我的脚放到另一个落脚点，我是不是就能过了？,"4 A.M.: If I put my foot on that other hold, would I have been able to make it up that route.",午前四時：次のホールドに足をかければ、越えられるだろうか？,sports,,common,,,,,,,,,,,,,
+136,飞盘,Frisbee,フリスビー,是的，这是一项正儿八经的运动。,"Yes, this is a bona fide sport.",はい、これは正式なスポーツです。,sports,,common,,,,,,,,,,,,,
+137,收到花,Receiving Flowers,花を受け取る,人生中第一次收到花是什么时候？来自谁？后面怎么样了呢？,When was the first time you received flowers? From whom? What happened next?,人生で初めて花をもらったのはいつ？誰から？その後は？,life,,common,,,,,,,,,,,,,
+138,做基因测试,Doing A DNA Test,DNAテストをする,我们祖上都曾阔过。,Our ancestors were extravagant once.,先祖は贅沢を楽しんでいた。,quest,,common,TRUE,,,,,,,,,,,,
+139,一整天不出门,Staying In All Day,一日中家にいる,这没什么难的，毕竟我们都经历过，不是吗？,"This is easy — we’ve all done it, right?",簡単でしょう？みんな経験あるよね？,life,,common,,,,,,,,,,,,,
+140,看流星雨,Watching A Meteor Shower,流星群を見る,这样的浪漫，恐龙也看过。,Such romance was even seen by dinosaurs.,このロマンスは恐竜でさえ見たことがある。,quest,,rare,,,,,,,,,,,,,
+141,早茶WWE,Morning Tea And WWE,朝の飲茶とWWE,早茶加WWE有没有搞头？,Is morning tea with WWE any fun?,朝の飲茶にWWEを加えたら面白い？,quest,,rare,,,,,,,,,,,,,
+142,初次投资,First Investment,初めての投資,你只需要在股票上涨前买入，在下跌前卖出，就可以赚钱了，很简单吧？,"You only need to buy before the stock rises and sell before it falls to make money. It’s that simple, right?",株価が上がる前に買い、下がる前に売れば儲かるだけだ。簡単だろ？,career,,common,,,,,,,,,,,,,
+143,看火山,Watching A Volcano,火山を見る,通红的巨口，滚滚的浓烟。,A gaping red maw and billowing smoke.,真っ赤な裂け目ともうもうと立ち昇る煙。,quest,,rare,,,,,,,,,,,,,
+144,自制冰淇淋,Homemade Ice Cream,手作りアイスクリーム,分享给朋友的时候不要告诉他们放了多少糖。,"When sharing with friends, don’t tell them how much sugar you used.",友達に分けるとき、いくつ砂糖を入れたかは教えないで。,skills,,common,,,,,,,,,,,,,
+145,看电影点映,Movie Preview Screening,映画の先行上映を見る,略带仪式感地打扮一番，和心爱的人挽着手去赴午夜的第一场，一起进入梦的世界。,"Dress up with a touch of ceremony, link arms with your loved one and attend the midnight preview, entering the world of dreams together.",ちょっと儀式めいて着飾って、愛する人と手をつないで深夜の先行上映へ。夢の世界へ一緒に入る。,quest,,common,,,,,,,,,,,,,
+146,去机场接人,Picking Someone Up At The Airport,空港で迎えに行く,你翘首以盼，握紧花束的手微微出汗；对方急不可耐，冲着就要出来。直到你们双眼碰上，心情绽开。,"You crane your neck in anticipation, your hand gripping the bouquet sweating slightly while the other person is about to step out. When your eyes finally meet, your mood blossoms.",首を長くして待ち、花束を握る手に汗がにじむ。相手はじれったそうに飛び出してくる。目が合った瞬間、心がはじける。,life,,common,,,,,,,,,,,,,
+147,时速130kmh,130 Km/H Speed,時速130km/h,感觉如何？是不是再也回不去60km/h的世界了。,How does it feel? Can you ever go back to a 60 km/h world?,気分はどう？もう時速60km/hの世界には戻れない？,quest,,common,,,,,,,,,,,,,
+148,学会漂移,Learned To Drift,ドリフトを習得する,你漂移的样子确实很帅，如果买轮胎的样子也这样帅就好了。,You look really cool drifting. If only buying tires looked that cool.,ドリフトする姿は本当にカッコいい。タイヤを買う姿もこんなにカッコよければいいのに。,skills,,rare,TRUE,,,,,,,,,,,,
+149,Bbox,Bbox,Bbox,Bbox教学第一课：用手把嘴巴遮住。,Bbox tutorial lesson one: cover your mouth with your hand.,Bboxレッスン1：手で口を覆う。,skills,,rare,,,,,,,,,,,,,
+150,拍完一卷胶片,Finished A Roll Of Film,フィルム一巻撮り終える,上卷、取景、按下快门。,"Load the roll, frame your shot, press the shutter.",フィルムを巻き上げ、フレーミングして、シャッターを押す。,quest,,common,,,,,,,,,,,,,
+151,剃光头,Shaved Head,頭を剃る,洗脸顺便可以洗头。,Washing your face conveniently washes your head too.,顔を洗うついでに頭も洗える。,life,,common,TRUE,,,,,,,,,,,,
+152,初次染发,First Time Dyeing Hair,初めて髪を染める,你知道我想说什么。,You know what I mean.,私が言いたいこと、わかるだろ？,life,,common,,,,,,,,,,,,,
+153,一个人上洗手间,Using The Restroom Alone,一人でトイレに行く,哼，我一个人也可以上洗手间，以后再也不和他们玩了。,"Hmph, I can use the restroom alone and will never play with them again.",ふん、一人でもトイレに行ける。もう二度と彼らとは遊ばない。,life,,common,,,,,,,,,,,,,
+154,初尝禁果,First Time,初めて禁断の果実を味わう,在紧张之后，落下了帷幕。从激烈到宁静，心跳声变得很大，这才意识到汗从额头滑到颈脖。适时有凉爽的风，吹起的窗帘把另一半遮掩住，真好看。,"After the tension, the curtain fell. From intensity to calm, my heartbeat grew loud, and only then did I realize sweat had slid from my forehead to my neck. A timely cool breeze blew, and the curtain lifted to hide the other half — so beautiful.",緊張のあと幕が降りる。激しさから静けさへと移り、心臓の鼓動が大きくなる。そのとき汗が額から首筋へと流れたことに気づく。涼しい風がそっと吹き、カーテンがもう半分を覆う。美しい。,life,,common,TRUE,,,,,,,,,,,,
+155,注册公司,Register A Company,会社を設立する,我怀揣着梦想，签下了字。自此我拥有了一家公司。,"I signed my name with dreams in my heart. From then on, I owned a company.",夢を胸に契約書にサインした。これで私は会社のオーナーだ。,career,,common,,,,,,,,,,,,,
+156,学会一个魔术,Learned A Magic Trick,マジックを覚える,猜猜我在想什么？,Guess what I’m thinking?,何を考えているか当ててみて？,skills,,common,,,,,,,,,,,,,
+157,街头表演魔术,Street Magic Performance,路上でマジックを披露する,我可以自己洗牌吗？,Can I shuffle the deck myself?,自分でシャッフルしてもいい？,skills,,rare,,,,,,,,,,,,,
+158,死海,Dead Sea,死海,这里是最低点。死海并不死寂，岸边充斥着旅人，湖里的浮游生物也在欢脱地游荡。,"This is the lowest point. The dead sea isn’t dead silent; travelers line the shore, and plankton frolic in the water.",ここは地球で最も低い地点。死海は死んでいない。岸辺には旅人があふれ、水中の微生物も楽しげに泳いでいる。,quest,,rare,,,,,,,,,,,,,
+159,量体剪裁一套衣服,Tailor-Made Outfit,オーダーメイドの服を仕立てる,如果你从未试过，那就去做一套吧！感受衣服按照你的尺码量身定做，衬出你的美。,"If you’ve never tried it, go have one made! Feel the beauty of clothes custom-made to your measurements.",まだ試したことがないなら、ぜひオーダーメイドを。自分の寸法で仕立てる服は美しさを引き立てる。,life,,rare,,,,,,,,,,,,,
+160,叫一个朋友“猪才怪”直到他受不了大喊“我不是猪才怪！”,A Prank derived from a Chinese Joke,中国の冗談に由来するいたずら,"某天
+小华骂小明:猪!
+小明反驳:我是猪才怪!
+小华:猪才怪
+猪才怪
+猪才怪
+猪才怪
+猪才怪
+猪才怪
+猪才怪
+
+有一天小明受不了
+他大喊:我不是猪才怪！","Due to my limited ability, I hereby kindly ask you to switch to Chinese and present it to your closest Chinese friend and let the friend explain it to you : )",能力の限界により、お手数ですが中国語に切り替えて最も親しい中国人の友人に見せ、その友人に説明してもらってください :),quest,,legendary,,,,,,,,,,,,,
+161,战胜癌症,Beating Cancer,がんを克服する,它原本是我们这边的，直到它失了控。,It originally belonged to us until it got out of control.,それは元々私たちのものだったが、制御を失った。,life,,legendary,,,,,,,,,,,,,
+162,获得律师证,Obtaining A Lawyer’s License,弁護士資格を得る,你的行动，要把你自己人身中的人性，和其他人身中的人性，在任何时候都同样看作是目的，永远不能只看作是手段。,"Your actions must treat humanity in yourself and others always as an end, never merely as a means.",自分自身と他者の人間性を常に目的として扱い、決して手段としてのみ扱ってはならない。,career,,common,,,,,,,,,,,,,
+163,通过法考,Passing The Bar Exam,司法試験に合格する,恭喜你拥有了两大财富:朴素法感情与紧急立法权。,Congratulations on gaining two great assets: a sense of justice and emergency legislative power.,朴素な法感情と緊急立法権、二つの大きな財産を手に入れたことを祝う。,career,,common,,,,,,,,,,,,,
+164,完成铁人三项,Completing A Triathlon,トライアスロンを完走する,它不应该简单，如果它简单的话，那么它就是高尔夫了。,"It shouldn’t be easy — if it were, it would be golf.",それが簡単ならゴルフだ。,sports,,rare,,,,,,,,,,,,,
+165,赏樱花,Viewing Cherry Blossoms,桜を見る,在我看完《秒速五厘米》的那个下午，我暗自呢喃我一定要去日本看一场樱花，如今十五年过去了。,"On that afternoon after watching “5 Centimeters Per Second,” I vowed to see cherry blossoms in Japan. Fifteen years have passed.",『秒速5センチメートル』を見た午後、日本で桜を見ようと誓った。十五年が過ぎた。,quest,,common,,,,,,,,,,,,,
+166,自己调一杯酒,Mixing Your Own Drink,自分でドリンクを作る,舀出冰好的冰球，放到杯子里，浇上摇晃均匀好的酒，再摆弄些什么叶子。啊……,"Scoop out the chilled ice sphere, pour in the shaken drink, add some leaves. Ah…",冷やしたアイスボールをすくい、ドリンクを注ぎ、葉を飾る。ああ…,skills,,common,,,,,,,,,,,,,
+167,和有趣的路牌拍照,Photo With A Funny Road Sign,面白い道路標識と写真を撮る,麦当劳路、幸福路、我在XXX很想你……,"McDonald Road, Happiness Road, “I Miss You In XXX”…",マクドナルド通り、幸福路、XXXで会いたい…,quest,,common,TRUE,,,,,,,,,,,,
+168,失而复得,Lost And Found,失って再び得る,本来已经不抱希望了，虽然这一趟旅程所有的照片影像都在里面，可是雪越下越大，掩盖了包括脚印在内的所有痕迹。万念俱灰地用脚一片片扫荡着，忽然，好像触碰到了什么硬物。找到了！,"I had lost hope, although all the photo images of the trip were inside, but the snow was getting heavier and heavier, hiding all the traces, including footprints. Sweeping with my feet, I suddenly touched something hard. I found it!",しかし雪はますます重くなり、足跡を含むすべての痕跡を隠してしまった。足で掃いたとき、突然硬いものに触れた。見つけた！,life,,rare,,,,,,,,,,,,,
+169,完成高考,Finishing The College Entrance Exam,大学入試を終える,也许很快你就会发现，这竟是人生最后一场真正意义的公平竞争。,Perhaps you’ll soon realize this was life’s last truly fair competition.,これが人生最後の本当の公平な勝負だったと気づくだろう。,study,,common,,,,,,,,,,,,,
+170,第一次看海,First Time Seeing The Sea,初めて海を見る,海的那边，是什么呢？,What lies beyond the sea?,海の向こうには何があるのか？,life,,common,,,,,,,,,,,,,
+171,爬野山,Hiking In The Wild,野山を登る,不要怕，山野总有雾灯，这缤纷乐园任你行。,Don’t fear — the wild has guiding lights. Explore this vibrant playground.,山野には霧灯がある。この色とりどりの楽園を進め。,quest,,common,,,,,,,,,,,,,
+172,第一次公开演讲,First Public Speech,初めてのスピーチ,还好心跳的声音不会通过声带传出来。,Good thing your heartbeat can’t be heard through the mic.,心臓の音がマイクを通らなくてよかった。,career,,common,,,,,,,,,,,,,
+173,打针/抽血,Getting A Shot Or Blood Draw,注射／採血を受ける,在我六岁那年，给我打针的护士是一位实习生，她给我扎了三针，我愣是一声没吭。后来换了一位护士长，一次就进去了，我这才放声大哭。,"At six, the trainee nurse gave me three shots — I didn’t flinch. The head nurse came and got it first try, then I cried.",六歳のとき、研修看護師に三度注射されたが、びくともしなかった。本看護師は一発で成功し、そのとき泣いた。,quest,,common,,,,,,,,,,,,,
+174,表白,Confession,告白する,只需大胆表达心意，喜欢是勇敢者的游戏。,Just be bold and express your feelings — love is a game for the brave.,大胆に気持ちを伝えよう。恋は勇者のゲームだ。,life,,common,,,,,,,,,,,,,
+175,读完一本书,Finishing A Book,本を読み終える,读完了，心里好像有一块地方空了，很不舍又很满足。,"Finished reading, yet a space feels empty — reluctant but fulfilled.",読み終えても心にぽっかり穴が開いたようで、名残惜しくも満たされる。,study,,common,,,,,,,,,,,,,
+176,不敢说的话终于说出来了,Saying What You’ve Been Afraid To Say,言えなかった言葉をついに言う,深呼吸，慢慢来。好像也没有那么难不是吗？,"Deep breath, take it slow. Not so hard, right?",深呼吸、ゆっくり。そんなに難しくないだろ？,quest,,common,,,,,,,,,,,,,
+177,WSET三级,WSET Level 3,WSETレベル3,你要不要挑战一下盲测分辨出可口可乐和百事可乐？,Want to try blind-testing Coke vs. Pepsi?,コーラとペプシをブラインドテストしてみる？,skills,,rare,TRUE,,,,,,,,,,,,
+178,滑冰,Ice Skating,アイススケート,戴好护膝护肘，扶好扶手，绕场一圈就可以过来打勾了。,"With pads on and holding the rail, one lap and you’re done.",プロテクターを着け手すりを持てば、一周でクリアできる。,sports,,common,,,,,,,,,,,,,
+179,摆摊,Running A Street Stall,屋台を出す,不论有没有人买，只要看看，和客人聊你喜爱的东西，偶尔有特别聊得来的，就是幸事一件。,"Whether they buy or not, chatting about what you love — and sometimes connecting — makes it worthwhile.",買われなくても、好きな話をして、たまに意気投合するのが幸せだ。,career,,common,,,,,,,,,,,,,
+180,小孩上小学,Child Starts Elementary School,子どもが小学校に入る,你看着他出门，希望他慢一点，不知道是在说脚步，还是说时光。,"You watch them leave, wishing they’d slow down — wondering if you mean their steps or time itself.",見送りながら歩みを止めてほしいと願う—それは歩幅か時間か。,life,,common,,,,,,,,,,,,,
+181,小孩上初中,Child Starts Middle School,子どもが中学校に入る,中世纪欧洲民间故事中说青春期的小孩仿佛被恶魔换走了，不然怎么变得那么不一样？要我说，他们没有变，只是需要更多自己的空间了。,"Medieval tales say adolescents were swapped by demons — otherwise how so different? They haven’t changed, just need more space.",中世の物語では思春期の子は悪魔にすり替えられるという。違うのは成長ではなく、スペースが必要なだけ。,life,,common,,,,,,,,,,,,,
+182,小孩上高中,Child Starts High School,子どもが高校に入る,好像就在一瞬间，小孩就变得比你高了，但无论多高，他们仍然是小孩。,"In an instant they outgrow you — yet however tall, they remain your child.",一瞬で親より背が高くなる—それでも子どもは子どもだ。,life,,common,,,,,,,,,,,,,
+183,小孩上大学,Child Starts University,子どもが大学に入る,你想起了你的曾经，看到相似的过往。,You recall your own past when you see theirs.,自分の過去が蘇る。,life,,common,,,,,,,,,,,,,
+184,小孩结婚,Child Gets Married,子どもが結婚する,他也要有他的另一半了，祝愿他一切都好。如果不好，也随时欢迎回来。,"He has his other half now — wish him well. If not, home is always open.",彼にも相手ができた。幸せを祈る。ダメならいつでも帰っておいで。,life,,common,,,,,,,,,,,,,
+185,考过四级,Passing CET-4,CET-4に合格する,最好是大一就考，那会是未来大学四年中英语水平最高的时候。,Better to pass CET-4 in freshman year — your English peak in college.,大学一年でCET-4合格がベスト。大学四年で英語力が最高潮になるから。,study,,common,,,,,,,,,,,,,
+186,考过六级,Passing CET-6,CET-6に合格する,也建议大一就考，这样后面就有时间考托福或雅思了。,Also take CET-6 early to leave time for TOEFL or IELTS.,CET-6も早めに合格し、その後TOEFLやIELTSを狙おう。,study,,common,,,,,,,,,,,,,
+187,饥肠辘辘,Hungry,空腹,我是亨格利！,I am hungry!,私はハングリーだ！,quest,,common,TRUE,,,,,,,,,,,,
+188,带父母去旅游,Traveling With Parents,両親を旅行に連れて行く,小时候他们带着我，我一直哭，嚷着要买玩具。现在我带着他们，不管吃什么玩什么他们都说好。,"When they took me for travelling, I was crying for toys. Now with me, they enjoy whatever I choose.",昔、彼らは私が泣いておもちゃをねだった。今、私が連れて行くと何をしても喜ぶ。,life,,rare,TRUE,,,,,,,,,,,,
+189,滑旱冰,Rollerblading,インラインスケートをする,别看了，你的旱冰鞋并不会鞋跟碰一下就开始自动移动。,Don’t expect your skates to move by themselves with one skate heel—get rolling!,かかと一つでは動かない。さあ滑ろう！,sports,,common,,,,,,,,,,,,,
+190,跳摇摆舞,Swing Dance,スイングダンス  ,我去上的第一堂课，跳舞老师告诉我自信最重要，只有自信了才能放松，只有放松了才能摇摆。,"I went to my first dance class. The teacher told me confidence is key—only when you’re confident can you relax, and only when you relax can you swing.  ",初めてのダンスレッスンに行った。先生は自信が一番大事だと言った。自信があってこそリラックスでき、リラックスしてこそスイングできる。  ,quest,,common,,,,,,,,,,,,,
+191,拦下车去要去的地方,Hail A Ride To Your Destination,目的地まで車を止める  ,"计划是两点十五的车票，在短暂的纠结之后我们选择了公交车，但是随着公交车晃悠晃悠，我们开始产生了怀疑：我们真的能赶上15点24分的车吗？于是我们跳下了车，决定打出租车去KTX，哪知道左右等不到车，这个时候我们走投无路了，决定拦过往的车辆。
+第一辆车很不顺利，看都没看我一眼就走了。我的同伴已经万念俱灰，我咬咬牙，又冲了上去，敲敲车窗。车里的夫妇显然被吓了一跳，他们不通英语，我又不懂韩文，比划着比划着他们倒是知道我们要去KTX。我们连声称谢，下了车一路狂奔，最后在还有6分钟时火速取了行李上了车。","The plan was a 2:15 train. After a brief hesitation we took the bus, but as it jolted along we began to doubt: could we make the 3:24 departure? We jumped off and decided to hail a taxi to the KTX. No cabs came, so we flagged down passing cars.  
+The first car drove off without a glance. My companion was despondent. I gritted my teeth, knocked on the window. The startled couple inside didn’t speak English and I don’t know Korean, but through gestures they understood KTX. We thanked them profusely, dashed off, grabbed our bags with six minutes to spare, and boarded.","計画は2:15の列車だった。少し迷った後バスに乗ったが、揺れるうちに本当に3:24に間に合うか疑問が湧いた。降りてKTXまでタクシーを呼ぼうとしたが来ない。通りかかる車を止めることにした。  
+最初の車は一瞥もせず去った。相棒は落胆した。私は歯を食いしばり、窓をノックした。中の夫婦は英語ができず、私は韓国語ができないが、身振りでKTX行きを伝えた。大いに礼を言い、荷物を抱えて六分前に飛び乗った。",quest,,rare,,,,,,,,,,,,,
+192,放牛,Herd Cattle,牛の世話をする  ,"初中我爸为了教育我，跟我说我身在福中不知福，他们那个时候放了学还要去放牛。
+我反唇相讥：“我现在倒是想放呢，感觉应该挺好玩的。”他哑口无言，转身去抄家伙去了。","In middle school my dad told me I was ‘blissfully unaware’—back then after class they still had to herd cattle.  
+I retorted, ‘I’d love to herd them now—it sounds like fun.’ He had no reply and went off to fetch his stick.","中学の頃、父は『幸せに気づかない』と言った。当時は放課後に牛を放していたからだ。 
+私は返した。『今やってみたいよ。楽しそうだ』父は言い返せず、道具を取りに行った。",quest,,rare,TRUE,,,,,,,,,,,,
+193,摘草莓,Pick Strawberries,イチゴを摘む  ,我净挑大的摘，摘了后擦一擦就放到我的框里。事后我洗干净了迫不及待送进嘴里，呸，好酸。,"I always picked the biggest berries, wiped them off, and tossed them in my basket. Later I washed and popped one in my mouth—ugh, so sour.",いつも大きい実を選んで拭いてかごに入れた。後で洗ってかじったら…うえっ、すごく酸っぱい。,quest,,common,,,,,,,,,,,,,
+194,养盆栽,Bonsai,鉢植えを育てる  ,逛集市遇到一个盆栽摊，我看它有缘就领它回家，还给它起了个名字叫“胡说树”。,"I saw a bonsai stall at the market, felt a connection, brought it home and named it “Sudowoodo.”  ",市場で盆栽の屋台を見つけ、縁を感じて連れ帰り「ウソッキー」と名付けた。,quest,,common,,,,,,,,,,,,,
+195,3D打印,3D Print,3Dプリント  ,自从接触了3D打印之后，家里多出来了好多废料和杂七杂八的小玩具。,"Since started 3D printing, my home has filled with scraps and random little toys.  ",3Dプリントを始めてから、家には廃材やいろんな小さな玩具が増えた。,skills,,common,,,,,,,,,,,,,
+196,陶艺,Pottery,陶芸  ,玩泥巴呀玩泥巴。,"Playing in the mud, you let the earth squish between your fingers and laugh.  ",泥の中で遊び、指の間で土を感じて笑った。,skills,,common,,,,,,,,,,,,,
+197,自制皮具,Make Leather Goods,革製品を作る  ,做一个小钱包，里面藏私房钱；做一个小卡夹，塞满信用卡；做一个小皮带，勒紧裤腰带。,You crafted a small wallet and hid your secret savings inside. You made a little card holder and stuffed it full of credit cards. You fashioned a tiny belt and tightened your trousers with pride.  ,小さな財布を作り、内緒の貯金をそっと隠した。小さなカードケースを作り、クレジットカードをぎゅうぎゅうに詰めた。小さなベルトを作り、腰回りをきゅっと締めた。  ,skills,,common,,,,,,,,,,,,,
+198,自制香水,Make Perfume,自家製香水を作る  ,嗅觉是人类最持久的记忆，当那个人身上的香味再一次在地铁闻到，久远的思绪一下子又把你拉回当时。,"Smell is humanity’s most enduring memory; when that scent returns on the subway, you’re instantly back in that moment.  ",嗅覚は人類で最も長く残る記憶。地下鉄であの人の香りを再び嗅ぐと、一瞬であの時に戻る。  ,quest,,common,TRUE,,,,,,,,,,,,
+199,支教,Teach As A Volunteer,農村で教える  ,告诉他们这个世界有多大，有多精彩，让他们自己去看看。,"You tell them how vast and wonderful the world is, and send them off to see it for themselves.  ",この世界の広さと素晴らしさを伝え、自分の目で確かめに行くように促す。  ,quest,,rare,,,,,,,,,,,,,
+200,做志愿者,Volunteer,ボランティアをする,我坚信人本质是有利他性的。不然为什么只是帮助他人，就可以这样满足且快乐。,I firmly believe human nature is altruistic—otherwise why would helping others bring such fulfillment and joy?,人間は本質的に利他的だと私は信じている。助けるだけで満たされ、喜びを感じるのはその証拠だ。,life,,common,,,,,,,,,,,,,
+201,听音乐剧,Listen To A Musical,ミュージカルを聴く  ,I'm not throwin' away my shot!,I'm not throwin' away my shot!,I'm not throwin' away my shot!,quest,,common,,,,,,,,,,,,,
+202,买摩托车,Buy A Motorcycle,オートバイを買う  ,骑摩托车最快乐的时候大抵是车都堵在路上而你穿梭其中的时候。,The best part of riding a motorcycle is weaving through gridlock when everyone else is stuck.  ,バイクで渋滞を抜ける瞬間が最高だ。,quest,,common,,,,,,,,,,,,,
+203,买电动车,Buy An Electric Scooter,電動スクーターを買う  ,答应我，不要改速度，也不要装灯。,Promise me you won’t modify your speed or your lights.  ,スピードもライト改造もしないでくれ。,quest,,common,,,,,,,,,,,,,
+204,买相机,Buy A Camera,カメラを買う  ,要相信这个世界永远无法取代的是审美。,Believe that what the world can never replace is your sense of beauty.  ,世界が決して奪えないのはあなたの審美眼だ。,quest,,common,,,,,,,,,,,,,
+205,写日记,Write A Diary,日記を書く  ,我看着每天记的流水账感到痛苦，后来我看了胡适的日记，也就释然了。,"I suffered reading my daily logs, and then I read Hu Shi’s diary and felt at peace.  ",毎日の記録を読むのがつらかった―でも胡適の日記を読んで救われた。,life,,common,,,,,,,,,,,,,
+206,给小费,Give A Tip,チップを渡す  ,雨太大了，你慢点，我肚子还好，不着急。,"The rain’s coming down hard. Go slow. I’m fine, no rush.  ",雨が激しい。ゆっくり行け。私は大丈夫、急がない。,life,,common,,,,,,,,,,,,,
+207,看鲸鱼,Watch Whales,クジラを見る  ,看过一个故事：小孩住在鲸鱼的肚子里，是独属于他的秘密基地。,"I heard a story: a child living in a whale’s belly, his own secret base.  ",子どもがクジラのお腹に住むという話を聞いた。それは彼だけの秘密基地だ。,quest,,rare,TRUE,,,,,,,,,,,,
+208,开卡丁车,Drive A Go-Kart,ゴーカートレース  ,F1赛车手的起点。,Every F1 driver starts here.,すべてのF1ドライバーは同じラインから始まる。,sports,,common,,,,,,,,,,,,,
+209,一币通关,Beat The Game With One Coin,コイン一枚クリア  ,在旁边的人眼中你是个传奇，游戏厅老板的眼中钉。,To bystanders you’re a legend; to the arcade owner you’re a menace.  ,周囲には伝説、ゲームセンターには厄介者。,skills,,rare,,,,,,,,,,,,,
+210,和朋友一起玩游戏,Play Games With Friends,友達とゲームをする  ,这是游戏最高的配置要求。,These are the highest specs a game can demand.,これはゲームが要求する最高のスペックだ。,life,,common,,,,,,,,,,,,,
+211,双截棍,Nunchaku,ヌンチャク  ,打到头真的很痛。,Hitting the head really hurts.,頭を打つと本当に痛い。,sports,,common,TRUE,,,,,,,,,,,,
+212,跑酷,Parkour,パルクール  ,跑酷练到大成你就可以和成龙一样成为家具城之王。,Parkour practiced to the max you can be the King of Furniture Mall just like Jackie Chan.,パルクールを極限まで練習すれば、ジャッキー・チェンのように家具都市の王になれる。,sports,,rare,,,,,,,,,,,,,
+213,指尖滑板,Fingerboard,フィンガーボード  ,我看到过一些小朋友玩指尖滑板的视频，再看看自己笨拙的手指，我所能做的就是点一个赞。,"I've seen videos of kids finger skateboarding, and looking at my own clumsy fingers, all I can do is give a thumbs up.",子供の指スケボーのビデオを見たことがあるが、自分の不器用な指を見ると、うなずくしかない。,sports,,rare,,,,,,,,,,,,,
+214,悠悠球,Yo-Yo,ヨーヨー  ,最简单的一招：地球自转。,The simplest trick: the earth rotates.,最も単純なトリック：地球は回転する。,skills,,common,,,,,,,,,,,,,
+215,陀螺,Spinning Top,コマ  ,小时候因为动画片，缠着母亲给我买陀螺，在货架上一块块铁片组合起来：这个可以增加持久力、这个可以增加进攻型……,"When I was a kid, because of cartoons, pestered my mother to buy me a gyro, then added metal pieces: one for stamina, one for attack…",子供の頃、アニメのせいで、母にジャイロを買ってくれとせがまれた。これは持続力を高めることができ、これは攻撃力を高めることができます......,skills,,common,,,,,,,,,,,,,
+216,自己装电脑,Build Your Own PC,自作PC  ,防呆不防傻，大力出奇迹。,"Dull-proof but not stupid-proof, vigorously out of the miracle.",防呆はできても防バカはできない。力が奇跡を生む。,skills,,rare,,,,,,,,,,,,,
+217,砍价,Bargain,値切る  ,你好，请问可以便宜一点吗？不可以啊……哦，那好吧。,"Hello, can I get it cheaper please? No, you can't. ...... Oh, okay then.",「すみません、安くなりますか？」「無理です…」「あ、そうですか」,skills,,common,TRUE,,,,,,,,,,,,
+218,去Live House,Go To A Live House,ライブハウスに行く  ,随着音乐，我的视线变成小小的圆点，聚焦在歌手身上。,"With the music, my eyes turn into tiny dots and focus on the singer.",音楽に合わせて視線が一点に集中した。,quest,,common,,,,,,,,,,,,,
+219,捐赠衣物,Donate Clothes,衣類を寄付する,过了一年，你走在街上，看到古着店外面挂着你捐赠的衣物，卖得比你最初买都贵。,"After a year, you walk down the street and see clothing you donated hanging outside a vintage store, selling for more than you even initially bought.",一年後、寄付した服が最初に買った値段より高く売られているのを見た。,life,,common,,,,,,,,,,,,,
+220,"Print(""Hello World"")","Print(""Hello World"")","Print(""Hello World"")",Hello World,Hello World,Hello World,skills,,common,TRUE,,,,,,,,,,,,
+221,项目上线,Launch A Project,プロジェクト公開  ,无数个加班的夜晚和周末，精疲力竭的身体，精神崩溃的边缘，只为了这一刻。,"Countless late nights and weekends of overtime, exhausted body on the brink of mental collapse — all for this moment.",無数の残業の夜と週末、疲れ果てた体、精神崩壊の淵—すべてはこの瞬間のために。,career,,common,,,,,,,,,,,,,
+222,副业盈利,Earn Side Income,副業で利益を得る  ,一旦开始盈利了，摆脱主业的时间就要快了。,"Once you start making a profit, freedom from your main job is just around the corner.",一度利益が出始めれば、本業から解放される日も近い。,career,,common,,,,,,,,,,,,,
+223,散伙,Break Up,グループ解散  ,江湖路远，大家好聚好散。,Journeys are long; let’s part on good terms.,旅路は遠い、いい別れをしよう。,career,,common,,,,,,,,,,,,,
+224,第一个外国客户/用户,First Foreign Client/User,初めての外国人クライアント/ユーザー  ,这个世界很大，地球是一个村，遥远的另一头喜爱你的产品，跨过了语言和文化。,The world is vast — Earth is a village. Clients across language and culture love your product.  ,世界は広い—地球は一つの村。言葉と文化を越えてあなたの製品を愛する人がいる。,career,,rare,,,,,,,,,,,,,
+225,写一首诗,Write A Poem,詩を書く  ,没有人会笑话你的文采和用词，只要它是真挚的情感。,No one will mock your diction as long as it comes from the heart.  ,心からの言葉なら、文才や表現を嘲る者はいない。  ,life,,common,,,,,,,,,,,,,
+226,画一幅画,Draw A Painting,絵を描く  ,画画的时候我会戴上耳机，下午的画室没有几个人，窗外的阳光透过绿色的玻璃照在慵懒的猫上，空调的风徐徐地吹，画笔唰唰唰。,"I put on headphones to paint. Few people in the studio; sunlight through green glass warms the lazy cat. The air conditioner breeze drifts by, and my brush strokes swish.  ",絵を描くときはヘッドホンを付ける。アトリエには数人だけ。緑のガラス越しの日差しが眠る猫を照らし、エアコンの風がそよぐ中、筆がシャッと動く。,life,,common,,,,,,,,,,,,,
+227, 晨跑,Morning Run,朝のランニング  ,随着呼吸变得有节奏，清爽的空气涌入我的肺，然后是我的大脑。身体在剧烈地运动，大脑在宁静地冥想。,"With rhythmic breaths, fresh air fills my lungs then my mind. My body moves intensely while my brain meditates in calm.  ",呼吸がリズムを刻み、爽やかな空気が肺へ、そして脳へと流れ込む。体は激しく動き、脳は静かに瞑想する。,sports,,common,,,,,,,,,,,,,
+228,拼乐高,Build Lego,レゴを組み立てる  ,两块叠起来的乐高积木仿佛要使用全宇宙的力量才能把它们分开。,Two LEGO bricks pressed together feel like they need the universe’s power to pull apart.  ,積み重ねたLEGOが全宇宙の力で引き離さなければ外れないように感じる。,quest,,common,,,,,,,,,,,,,
+229,骑骆驼,Ride A Camel,ラクダに乗る  ,对于双峰骆驼我是知道该骑在哪个位置的。单峰骆驼呢？,I know where to sit on a Bactrian camel. But on a dromedary?  ,双峰ラクダではどこに乗るか知っている。では一峰ラクダは？,quest,,common,,,,,,,,,,,,,
+230,在星期四吃麦当劳而不是肯德基,Eat McDonald's On Thursday Instead Of KFC,木曜はKFCではなくマクドナルドを食べる  ,是在星期四吃麦当劳而不是肯德基而不是在星期四吃肯德基而不是麦当劳。,"It’s eating McDonald’s on Thursday instead of KFC, not eating KFC on Thursday instead of McDonald’s.",木曜にKFCではなくマクドナルドを食べること。それが木曜にマクドナルドであって、KFCではない理由。,quest,,common,TRUE,,,,,,,,,,,,
+231,排位十连胜,Ten Wins In A Row In Ranked Matches,ランク戦十連勝  ,有一双无形的大手即将笼罩你，为你安排了接下来的十连败。,"An invisible hand is about to envelop you, arranging your next ten straight losses.",見えない大きな手があなたを包み込み、次の10連敗を用意している。,quest,,common,,,,,,,,,,,,,
+232,天胡,Heavenly Hand,天胡  ,你用你的小拇指发誓你没有作弊。,You swear on your pinky that you didn't cheat.,あなたは小指を差し出して、ずるなどしていないと誓う。,quest,,rare,,,,,,,,,,,,,
+233,皇家同花顺,Royal Flush,ロイヤルフラッシュ  ,当你摸到这副牌时，你脑海里一定已经响起了BGM。,"When you draw that hand, you can already hear the background music in your head.",その手を引いた瞬間、脳内でBGMが鳴り響いているはずだ。,quest,,rare,,,,,,,,,,,,,
+234,上传一个视频,Upload A Video,動画をアップロード,这是成为百万粉丝博主的第一步。,This is the first step to becoming a creator with a million followers.,これはフォロワー100万人のクリエイターになるための第一歩だ。,career,,common,,,,,,,,,,,,,
+235,说走就走的旅行,Spur-Of-The-Moment Trip  ,思い立ったら旅に出る ,我们总是犹犹豫豫，我们总是步履不前。雪山或者海滩其实只差一张机票。,"We always hesitate, and we always fail to move forward. A snowy mountain or a beach is just one plane ticket away.",私たちはいつもためらい、前に進めない。雪山もビーチも実はたった一枚の航空券の差だ。,quest,,common,TRUE,,,,,,,,,,,,
+236,吃到不甜的甜品,Eat A Not Too Sweet Dessert,甘くないデザートを食べる,真正高级的甜品，吃的是香气的组合。,Truly sophisticated desserts are about the harmony of aromas.,本当に上質なデザートは、香りのハーモニーを味わうものだ。,quest,,common,,,,,,,,,,,,,
+237,一次圣地巡礼,Go On A Pilgrimage,聖地巡礼,幻想自己在作品里，想象男女主角就是在这里一遍遍走过，然后开始他们的故事。,"Imagine yourself in the scene, picturing the protagonists walking here over and over before their story begins.",作品の中に自分を重ね、男女の主人公がここを何度も歩き回ってから物語が始まると想像する。,quest,,common,TRUE,,,,,,,,,,,,
+238,获得偶像签名,Get An Idol's Signature,憧れの人のサインをもらう,放入框里，装裱起来，然后抱着睡觉。,"Frame it, hang it up, then fall asleep holding it.",額に入れて飾り、それを抱えて眠る。,quest,,rare,,,,,,,,,,,,,
+239,刻一个印章,Carve A Seal,印鑑を彫る,刻一只可爱的动物，不开心的时候就往自己身上盖。,"Carve a cute animal seal, and when you’re unhappy, stamp it on yourself.",かわいい動物の印鑑を彫って、落ち込んだときは自分に押す。,skills,,common,,,,,,,,,,,,,
+240,漫无目的地坐公交,Ride A Bus Aimlessly,あてもなくバスに乗る,这是城市特有的漂流方式。随意上车、下车、再上车、再下车，观察上下车的人们，观察窗外划过的风景。最后在无比陌生的地方凭着直觉找到一家餐厅，相信我，会很美味的。,"This is the city’s unique way of drifting: hop on, hop off, hop on again, hop off again, watch the people boarding and alighting, watch the scenery pass by. Finally, in an unfamiliar place, follow your instincts to find a restaurant. Trust me, it will be delicious.",これは都市特有の漂流方法だ。乗って降りて、また乗って降りて、人々の乗り降りを観察し、窓外の景色を眺める。最後に見知らぬ場所で直感を頼りにレストランを見つけるんだ。美味しいから信じて。,quest,,rare,,,,,,,,,,,,,
+241,看脱口秀现场,Watch A Live Stand-Up Comedy Show,スタンドアップコメディを観る,它给我们提供了一个安全空间，在这里我们百无禁忌。,It gives us a safe space where nothing is off‑limits.,そこは何も禁じられない安全な空間を提供してくれる。,quest,,common,,,,,,,,,,,,,
+242,认真地写一篇食评,Write A Serious Food Review,真剣にグルメレビューを書く,第一颗寿司送入口中，滋味在嘴里散化开来之际，脑中无数的感受、念头也同时都冒出来了……其中一个感受当然就是：“啊，原来如此……”原来“次郎寿司”的滋味是这样的啊，这是你读过多少次报道评论，看过多少张绝美照片，做过多少回揣摩幻想，完全都无法替代分毫的。此刻，想象遇见真相，你内心轻轻喟叹：“啊，啊，啊，原来如此，原来滋味是这样的。”,"The first piece of sushi melts in your mouth and a flood of thoughts and feelings rushes in…one of them is, “Ah, so that’s how it tastes…” No article, no photo, no imagination can replace that moment of truth. In that instant you whisper to yourself, “Ah, ah, ah, so that’s it, so that’s the flavor.”",一貫目の寿司が口の中でとろけると同時に、無数の感覚と思考があふれ出す…そのうちの一つは「なるほど…」という驚きだ。どんな記事も写真も想像も、この瞬間にはまったく敵わない。そのとき心の中でそっとつぶやく。「ああ、そうか、これが味なんだ」。,quest,,common,,,,,,,,,,,,,
+243,出COS,Cosplay,コスプレをする,其他人或许不理解，这是一种投射，希望自己能够成为自己所喜爱的角色，成为一个更好的人。,"Others may not understand — it’s a projection, a hope to become the role you love, to become a better you.",他人には理解できないかもしれないが、それは自分の好きな役を投影し、より良い自分になりたいという願いだ。,quest,,common,,,,,,,,,,,,,
+244,穿旗袍,Wear A Qipao,チャイナドレスを着る,看完《花样年华》后我沉浸在电影的情绪中很长时间不能抽离，旗袍最是能诠释这种缠绵又抽离的服饰。,After watching In the Mood for Love I remained lost in its mood for hours. The qipao embodies that blend of longing and distance.,『花様年華』を観た後、その余韻に何時間も浸って抜け出せなかった。旗袍はその切なくも儚いムードを最もよく表現している。,quest,,common,,,,,,,,,,,,,
+245,定向越野,Orienteering,オリエンテーリング,这是用一份地图、一个指南针，从一个地点到下一个地点的活动。如果人生的目标不明确，至少定向越野的目标是明确的。,"Orienteering is an activity with a map and compass from point to point. If life’s goals are unclear, at least the orienteering goal is precise.",オリエンテーリングは地図とコンパスで地点から地点へ移動する競技だ。人生の目標が曖昧でも、オリエンテーリングの目標は明確だ。,sports,,rare,,,,,,,,,,,,,
+246,地理寻宝,Geocaching,ジオキャッシング,这是一项利用电子地图，在世界各地隐藏和寻找地理藏宝盒的户外活动。你眼中平平无奇的一棵树，底下正藏着全世界寻宝者所追寻的宝盒。,Geocaching uses electronic maps to hide and find treasure boxes worldwide. That ordinary tree before your eyes may conceal the prize all seekers pursue.,ジオキャッシングは電子地図で世界中に隠された宝箱を探すアウトドア遊びだ。目の前の何気ない木の下に、全世界の冒険者が追い求める宝箱が眠っているかもしれない。,sports,,rare,,,,,,,,,,,,,
+247,获得五杀,Get A Pentakill,ペンタキルを取る,在获得四杀时，敌人和你的队友会坏笑地等着你说出那句神秘咒语。,"When you get a quad kill, enemies and teammates grin, waiting for you to utter that secret phrase.  ",四連殺を取ると、敵も味方もニヤリと笑い、その秘密の呪文を待っている。,quest,,common,,,,,,,,,,,,,
+248,己方小队只剩下你一人时完成残局,Win A Clutch When You Are The Last One Alive On Your Team,味方全滅からのソロ勝利 ,录下来了吗？,Did you record it?  ,録画した？,quest,,common,,,,,,,,,,,,,
+249,骑行,Cycling,サイクリング,沿着海岸线和山路骑行，终点是烧烤摊。,"Cycling along coastlines and mountain roads, the finish line is at a street food stand.  ",海岸線と山道を走り、ゴールはバーベキュー屋台だ。,sports,,common,,,,,,,,,,,,,
+250,桌游,Board Games,ボードゲーム,"桌游人十大美德 
+团结：这轮你不卡我，下轮我不卡你；
+好学：你再讲一遍，我走神了；
+冷静：别催，我再想想；
+机敏：你刚刚是不是多拿资源了？ 
+睿智：等一下，刚才那步我不那样动；
+自信：你这里绝对村了，把规则书给我；
+正义：他都要赢了，你怎么不卡他；
+认真：是璀璨宝石不是宝石商人；
+勤劳：来，我们先套牌套； 
+包容：狼人杀也不能完全不算桌游。","Tabletop Gamers’ Ten Virtues
+Unity: You don’t block me this round; I won’t block you next round.
+Studious: Say that again — I zoned out.
+Calm: Don’t rush me — I’m still thinking.
+Alert: Didn’t you just take extra resources?
+Wise: Wait. I shouldn’t have moved like that.
+Confident: You’re totally lost. Hand me the rulebook.
+Just: He’s about to win. How can you not block him?
+Serious: It’s “Splendor,” not “Gem Merchant.”
+Diligent: Come on, let’s sleeve our cards first.
+Inclusion: Werewolf also counts as a tabletop game. ","ボードゲーマーの十の美徳
+団結：今ラウンドは邪魔しない、次はよろしく；
+博学：もう一度言って、集中が切れた；
+冷静：急かさないで、考え中；
+機敏：さっき資源を余分に取らなかった？
+賢明：待って、あの動きは間違いだった；
+自信：ここ絶対ダメだ、ルールブックを出して；
+正義：もうすぐ勝つのに、どうして邪魔しない；
+真面目： “スプレンダー”であって、“宝石商人”じゃない；
+勤勉：さあ、デッキ調整から始めよう；
+寛容：人狼もボードゲームに含めていいよね。",quest,,common,,,,,,,,,,,,,
+251,跑团,TTRPG,テーブルトップRPG,记住，不管玩家手册怎么说，听KP的。,"Remember, no matter what the player’s handbook says, listen to the Keeper.",覚えておいて、プレイヤーズハンドブックが何と言おうと、KPの言うことを聞くこと。,quest,,common,,,,,,,,,,,,,
+252,TCG卡牌游戏,TCG Card Game,TCGカードゲーム,"问：你可以任意选择超能力，但只要被别人猜到就会死亡，你会选择什么能力？
+答：24小时内一次，选自身或周围的人隐身一天才能发动。那个人做2个俯卧撑。","Q: You can choose any superpower, but if someone guesses it, you die. What power do you choose?
+A: Once every 24 hours, choose you or someone nearby as the target turning invisible for a day to activate. That person does two push‑ups.","問：好きな超能力を自由に選べるが、他人に当てられたら死ぬ。どんな能力を選ぶ？
+答：24時間に一度、自分か周囲の人を一日透明にできる。その人は腕立て伏せを2回する。",quest,,common,,,,,,,,,,,,,
+253,记手账,Keeping A Journal,手帳をつける,第一步，下单超级多可爱贴纸。,"Step one, order a ton of cute stickers.",第一に、とにかく可愛いステッカーを大量に注文する。,life,,common,,,,,,,,,,,,,
+254,骑独轮车,Ride A Unicycle,一輪車に乗る,超绝的平衡力。,Exceptional sense of balance.,超絶なバランス感覚。,sports,,rare,,,,,,,,,,,,,
+255,城市废墟探险,Urban Ruins Exploration,都市廃墟探検,小时候常去的游乐园要拆了，它变成了废墟。就像一位老人，我潜入进去时她仍然温柔地招待我，向我展示曾经的模样。我看着旁边拔地而起的大楼，心里有些发酸。,"The amusement park I loved as a kid is being torn down into ruins. Like an old friend, it still greeted me gently when I sneaked in, showing its former self. I looked at the skyscrapers rising beside it and felt a pang in my heart.",子供の頃よく行った遊園地が取り壊され、廃墟になった。まるで年老いた友人のようで、こっそり入ると今も優しく迎え、かつての姿を見せてくれた。そばにそびえる超高層ビルを見て、胸がきゅんとした。,quest,,rare,,,,,,,,,,,,,
+256,公园20分钟,Spend 20 Minutes In The Park,公園で20分,只需要20分钟，就能舒缓情绪，还有什么比这更妙的药吗？,In just 20 minutes you can soothe your mind—what better medicine is there?,わずか20分で心が落ち着く—これ以上の妙薬はあるだろうか？,life,,common,TRUE,,,,,,,,,,,,
+257,学会鲤鱼打挺,Learn A Back Handspring,鯉のフィッシュフリップを習得,不用手扶就能站起来，这也太酷了。,Standing up without using your hands is so cool.,手を使わずに立ち上がるなんて、すごくかっこいい。,skills,,rare,,,,,,,,,,,,,
+258,学会骑自行车,Learn To Ride A Bicycle,自転車に乗る方法を習得,一个听起来很反直觉的诀窍是骑得越快反而越好掌握平衡。,"A counterintuitive trick: the faster you ride, the easier it is to balance.",逆説的なコツ：速く乗れば乗るほどバランスが取りやすい。,sports,,common,,,,,,,,,,,,,
+259,复合,Get Back Together,仲直り,内心的答案只有自己知道。,Only you know the answer in your heart.,心の答えは自分だけが知っている。,life,,rare,,,,,,,,,,,,,
+260,吵架后和好,Make Up After A Fight,喧嘩の後に和解する,那不是低头，也不是认输，只是觉得友谊这么长久，你是我最好的朋友。,"It’s not surrendering or compromising — it’s knowing that after all this time, you’re my best friend.",それは俯くことでも諦めることでもない—ただ長い年月を経て、あなたが一番の友達だと感じるだけ。,life,,common,,,,,,,,,,,,,
+261,记账,Tracking Expenses,家計簿をつける,记账是理财的第一步，只有这样你才能开始了解自己的财务状况。,Tracking expenses is the first step to financial freedom; only then can you understand your finances.,家計簿をつけることは資産管理の第一歩。それによって初めて自分の財政状況が分かる。,career,,common,,,,,,,,,,,,,
+262,做巧克力,Make Chocolate,チョコレートを作る,这是几百年前价比黄金的美味。,This was once worth its weight in gold centuries ago.,これは数百年前、金と同じ価値があった美味しさだ。,quest,,common,TRUE,,,,,,,,,,,,
+263,打网球,Play Tennis,テニスをする,"你知道吗？Roger Federer的名字中有一半都是""er""。",Did you know half of “Roger Federer” is “er”?,知ってた？“Roger Federer”の半分は“er”だよ。,sports,,common,,,,,,,,,,,,,
+264,打棒球,Play Baseball,野球をする,我尝试了很多次，但我至今都搞不懂它的规则。,"I’ve tried many times, but I still can’t grasp its rules.",何度も挑戦したが、そのルールが今なお理解できない。,sports,,common,,,,,,,,,,,,,
+265,打高尔夫,Play Golf,ゴルフをする,高尔夫最重要的是从一个点到下一个点中间的聊天。,The best part of golf is the conversations between shots.,ゴルフで一番大事なのはショットの合間の会話だ。,sports,,common,,,,,,,,,,,,,
+266,公司上市,Take The Company Public,会社を上場する,上市只是手段，目的是一家伟大的公司。,Going public is just a means; the goal is to build a great company.,上場は手段にすぎない。目標は偉大な会社をつくることだ。,career,,legendary,,,,,,,,,,,,,
+267,拍一张鬼脸自拍,Take A Funny Face Selfie,変顔セルフィーを撮る,成年人的世界有时候不需要这么严肃。,The adult world doesn’t always have to be so serious.,大人の世界はいつも真面目である必要はない。,life,,common,,,,,,,,,,,,,
+268,拍一张全家福,Take A Family Portrait,家族写真を撮る,每一年拍一张全家福，看着父母慢慢变老，看着自己慢慢长大。,Take a family photo every year — watch your parents age and yourself grow.,毎年家族写真を撮り、親が年を取り、自分が成長するのを見届ける。,life,,rare,,,,,,,,,,,,,
+269,现场看F1比赛,Watch A Live F1 Race,F1レースを生で観る,13.1秒足够博尔特跑一百米或者刘翔跑完一百一十米或者换轮胎。,In 13.1 seconds Bolt can run 100 m or Liu Xiang can hurdle 110 m — or Ferrari can change tires.,13.1秒でボルトは100 mを走り、劉翔は110 mを走る — Ferrariはタイヤを交換する。,quest,,rare,TRUE,,,,,,,,,,,,
+270,爱人错过,Missed My Significant Other,恋人に会いそびれる,前世的缘分未能修够，让我在错误的时间，遇上对的你。,"Last life’s bond wasn’t enough, so I met you at the wrong time.",前世の縁は足りず、私は間違った時にあなたと出会った。,life,,common,,,,,,,,,,,,,
+271,缝补衣服,Sew Clothes,服を繕う,多打几个补丁，配上自信，你就可以引领时尚潮流。,"Patch it up, add confidence, and you’ll lead the fashion trend.",何度も補強し、自信をまとえば、流行を生み出せる。,life,,common,,,,,,,,,,,,,
+272,手机服役5年,Use A Phone For Five Years,携帯を5年使い続ける,这项成就在十年前的难度是今天的十倍。,An achievement that was ten times harder a decade ago.,十年前の難易度は今の十倍だった偉業。,life,,common,,,,,,,,,,,,,
+273,冰球,Ice Hockey,アイスホッケーをする,冰球运动员的超能力是水上行走。,An ice hockey player’s superpower is walking on water.,アイスホッケー選手の超能力は水上歩行だ。,sports,,rare,,,,,,,,,,,,,
+274,全职儿女,Full-Time Child,フルタイムの子,雇主：父母，职责：为父母提供情绪价值。,Employer: your parents; Job description: providing emotional service.,雇用主は両親。仕事内容は、両親に感情的な価値を提供すること。,life,,common,,,,,,,,,,,,,
+275,日行两万步,"20,000 Steps a Day",一日二万歩,这是人类引以为傲的能力：靠着举世无双的耐力成为地球霸主。有些人却踩着电动平衡车，这简直是自废武功。,"This is humanity’s pride: endurance made us rulers of the earth. Yet some ride hoverboards, wasting our ancient gift.",人類の誇りは持久力。それで地球の支配者になれたのに、電動ボードに乗るなんて…その力、無駄にしてない？,sports,,common,TRUE,,,,,,,,,,,,
+276,故地重游,Revisiting an Old Place,思い出の場所を再訪,第二次到这个地方，好像相同又好像不同。随着年龄增长，看到同样一块石头也感觉它变了模样。,The second time feels the same yet different. Even the same stone seems changed as we grow older.,二度目の訪問なのに、同じようで違う。年を重ねるごとに、見慣れた石も違って見える。,quest,,rare,,,,,,,,,,,,,
+277,邀请朋友来家里吃饭,Dinner With Friends at Home,友達を家に招いて食事,做自己最拿手的菜，看朋友一边称赞一边吃光。饭后呷着酒，展示家里的珍藏，聊天说地。,"Cook your best dish, watch them praise while finishing every bite. Sip wine after dinner, show off your treasures, and talk about everything.",得意料理をふるまって、「うまい！」と言いながら完食してくれる友達。食後はお酒を飲みながら、家の宝物を見せ合って、語り合う。,life,,rare,,,,,,,,,,,,,
+278,一个人做手术,Going Through Surgery Alone,一人で手術を受ける,我感到自己很遥远，却在逐渐靠近一个实体，感官像在缓慢开机一样恢复信号接收——好冷。从身体接收到这个信号到发出“冷”的讯息，又好像过了几个世纪那么久。,"I felt distant, yet slowly approaching something real. My senses rebooted like a machine — first signal: cold. The time from sensation to speaking the word felt like centuries.",自分がとても遠くにいるような感覚。少しずつ現実に戻ってきて、「冷たい」と言葉にするまで、何世紀もかかったような時間だった。,life,,legendary,,,,,,,,,,,,,
+279,私家侦探执照,Private Investigator License,私立探偵の免許,是哪个角色诱使你踏入这一行？福尔摩斯、名侦探柯南还是唐人街探案？,"Which character lured you into this? Sherlock Holmes, Detective Conan, or Detective Chinatown?",この道に入ったきっかけのキャラは？シャーロック？コナン？唐人街探偵？,career,,rare,,,,,,,,,,,,,
+280,吃旿餐（早午餐）,Brunch,ブランチ,一个满分的周六大概是这样开始：和心爱的人睡到自然醒，然后在床上赖床腻歪一会儿。等时间差不多了，肚子大概八分饿，一起出门在一家旿餐店美美地吃上一餐漂亮饭。,"A perfect Saturday starts with waking up naturally next to someone you love, cuddling in bed, then going out for a beautiful brunch once you're nicely hungry.",完璧な土曜日の朝は、大切な人と自然に目覚めて、少しベッドでいちゃいちゃ。ちょうどお腹がすいた頃に、ブランチを食べに出かける。,quest,,common,,,,,,,,,,,,,
+281,开一家自己的店,Opening Your Own Store,自分のお店を開く,你精挑细选设计、材质、品牌，从早忙到晚盯施工。最后店面如你想象中完美，面对第一个客人终于可以说出那句：“欢迎光临！”,"You carefully picked every detail: design, materials, branding. After long days watching construction, it’s finally perfect. And to your first customer, you say: “Welcome!”",デザイン、素材、ブランド…すべて自分で選んだ。朝から晩まで工事を見守って、ようやく理想の空間が完成。最初のお客さんに「いらっしゃいませ！」,career,,rare,,,,,,,,,,,,,
+282,一天吃五顿,Having 5 meals a day,一日五食,这意味着你有一个好的胃口，有一个能够负担五顿的钱包，有对食物的追求，你大概还有一个很棒的心情。,"This means you have a good appetite, a wallet that can afford five meals, a passion for food, and probably a great mood.",これはあなたに優れた食欲があり、五食を賄える財布があり、食への探究心があって、素晴らしい気分を持っていることを意味する。,quest,,common,,,,,,,,,,,,,
+283,写回忆录,Writing A Memoir,回想録を書く,是时候开始回忆一生了：年轻时帝国也同我一样年轻，粮仓里有吃不完的粮食，帝国的势力范围永远被阳光所笼罩，世界处在前所未有的和平与团结之中。现在，我老了，帝国也和我一样衰老，有人吃得太多，有人吃得太少。盟友们不再信任我，大家各自筑起城堡，我们再也不能独享小澡堂了。,"It’s time to reflect on a lifetime: in youth the empire was young like me, its granaries overflowing, its realm always bathed in sunlight, the world at unprecedented peace and unity. Now I am old, the empire ages with me — some feast, some starve. Allies no longer trust me, each builds their own fortress, and we can no longer claim it as Mare Internum.",振り返る時が来た。若き日は帝国も私と共に若く、穀倉は尽きず、領域は常に陽光に包まれ、世界は前例なき平和と団結にあった。今、私は老い、帝国も私と共に衰えた—ある者は食べ過ぎ、ある者は飢える。盟友はもはや私を信頼せず、それぞれ砦を築き、小さな浴場を共有することもできなくなった。,life,,rare,,,,,,,,,,,,,
+284,拍大头贴,Taking Photo Booth Pictures,プリクラを撮る,你现在有十秒钟的时间摆姿势，来点有创意的！,You have ten seconds to strike a pose. Be creative!,今、ポーズを取るための10秒がある。クリエイティブにいこう！,quest,,common,,,,,,,,,,,,,
+285,缝纫,Sewing,裁縫をする,小时候我外婆会帮我缝衣服，一根线一根线，我觉得很神奇。哪想到长大了想要体验一下，还要花一笔钱。,"As a child my grandmother sewed my clothes, stitch by stitch, which felt magical. Who’d have thought that grown‑up me would pay to experience the same wonder?",子どもの頃、祖母は一針一針私の服を縫ってくれ、その魔法に感じ入った。大人になった私は、その驚きを体験するためにお金を払うとは思いもしなかった。,quest,,common,TRUE,,,,,,,,,,,,
+286,寄明信片,Sending A Postcard,絵はがきを送る,"等你收到这封信的时候，是我在遥远的东方给你写的。
+我在不大的房间里用电脑敲下这行字，不管你在哪，不管你是谁，祝你一切好运。
+看看周围吧，只要活着就会有好事发生。","When you receive this letter, I’ll be writing from the far East.
+In a small room I type these words on a computer; wherever you are, whoever you are, I wish you all the best.
+Look around, so long as you live, good things will happen.","この手紙を受け取る頃、私は遠い東方から書いているだろう。
+狭い部屋でパソコンに向かいこの言葉を打つ。君がどこにいようと、誰であろうと、幸運を祈る。
+周りを見てごらん。生きている限り、良いことは起こる。",life,,common,,,,,,,,,,,,,
+287,纸飞机飞超过30m,Paper Airplane Flight Over 30 m,紙飛行機を30ｍ以上飛ばす,在别人眼里只是一架纸飞机，在我们眼里，那可是装载了反物质引擎推进器最新空气动力学的结晶。,To others it’s just a paper airplane; to us it’s the aerodynamic marvel housing an antimatter engine.,他人にはただの紙飛行機だが、私たちには反物質エンジン推進器を内蔵した最新空力結晶に見える。,quest,,rare,TRUE,,,,,,,,,,,,
+288,赏月,Moon Gazing,お月見をする,"在苏州有一个望月坡，望月坡遥远的下方是一片湖。
+我幻想以前的人们侧躺在这里，吃着月饼或者其它什么甜食，抬头可以赏天上的月亮，低头可以赏湖里的月亮。","In Suzhou there’s Moon‑Watching Slope; far below it lies a lake.
+I imagine people of the past lying here, eating mooncakes or other sweets, gazing at the moon above and its reflection below.","蘇州には望月坡という場所があり、その遥か下方には湖が広がる。
+昔の人々がここで横たわり、月餅や菓子を頬張り、空の月を見上げ、湖の月を見下ろしていたと想像する。",quest,,common,,,,,,,,,,,,,
+289,溜猫（或者其它不该溜的宠物）,Walking A Cat (Or Other “Untouchable” Pet),猫を散歩させる（または普段触れられないペット）,"普通：溜猫；
+文艺：溜乌龟；
+抽象：溜石头。","Normal: Walking a cat;
+Hardcore: Walking a turtle;
+Insane: Walking a stone.","普通：猫を散歩させる；
+文芸：亀を散歩させる；
+抽象：石を散歩させる。",life,,rare,,,,,,,,,,,,,
+290,DELE C2,Diplomas de Español como Lengua Extranjera C2,DELE C2,"Mi casa, su casa？","Mi casa, su casa？","Mi casa, su casa？",study,,rare,,,,,,,,,,,,,
+291,再成同事,Colleague Again,再び同僚になる,在公司里相识，后各自分开，辗转各个地方，又在另一家公司相见，很难说这不是一种另类的难得的缘分。,"Meeting at one company, parting ways, traveling various places, and reuniting at another company — surely a rare twist of fate.",ある会社で出会い、それぞれ別れ、あちこちを巡り、別の会社で再会する—これはまさに珍しい縁だ。,life,,rare,,,,,,,,,,,,,
+292,在另一边开车,Driving On The Other Side,反対側で運転する,这就像是用另一只手写字一样别扭，当心点，不要逆行。,It feels as awkward as writing with your other hand. Be careful not to go the wrong way.,もう一方の手で文字を書くような違和感がある。気をつけて、逆行しないで。,skills,,rare,,,,,,,,,,,,,
+293,在另一个国家开车,Driving In Another Country,別の国で運転する,"一个国家的道路就是它的毛细血管：体现着文化和性格。
+北海道的路上有箭头标记，是为了冬天大雪时告诉你路在哪里；澳大利亚的路牌会温馨提示你小心袋鼠；天津的警示是“驾车说笑，危及安全”。","A country’s roads are its capillaries, reflecting culture and character. In Hokkaido, arrows mark the road for snowy winters; in Australia, signs gently warn you to watch for kangaroos; in Tianjin, the warning reads, “Talking while driving endangers safety.”",国の道路は毛細血管のように文化と性格を映し出す。北海道では雪の季節に道を示す矢印があり、オーストラリアではカンガルーに注意する看板が優しく促し、天津では「運転中の会話は危険」と警告する。,quest,,common,,,,,,,,,,,,,
+294,探店,Restaurant Scouting,店を開拓する,"其实人类打猎的天性从未消失，总是喜欢拥有一个目标然后去完成它。
+城市，这个钢筋水泥铸就的森立，容纳着性格迥异的小店，它们简直就是店主的化身。
+轻轻推门进去，享受和店主人精神上的交流，为这一天的目标感打上一个大大的勾。","Human hunting instincts never vanished. We always love having a goal and achieving it. 
+A city of steel and concrete houses quirky shops that embody their owners. 
+Push the door gently, enjoy a mental exchange with the shopkeeper, and check off today’s mission with pride.","人間の狩猟本能は消えていない—常に目標を持ち、それを達成するのが好きだ。
+鋼とコンクリートの都市には店主の個性を映すユニークな店がある。
+そっとドアを押し開け、店主との精神的な交流を楽しみ、今日のミッションに大きなチェックを入れる。",quest,,common,,,,,,,,,,,,,
+295,烧玻璃,Glassblowing,吹きガラス,一吹一捏，一个形状就在手中诞生。那么烫又那么柔软，晶莹透亮。,"With each blow and pinch, a shape emerges in your hands. So hot yet so soft, crystal clear.",吹いて捏ねるごとに、熱くも柔らかく透き通った形が手の中で誕生する。,skills,,rare,,,,,,,,,,,,,
+296,编织,Weaving,編み物,竹叶一层一层叠加，变成形状，从柔软变得坚韧。,Layering bamboo leaves until form transforms from soft to resilient.,竹の葉を一枚一枚重ね、柔らかさから強靭さへと姿を変える。,skills,,common,,,,,,,,,,,,,
+297,玩弹弓,Playing With A Slingshot,スリングショットをする,小时候的我们有这样那样的玩具，而现在的小孩似乎只有大大的手机和iPad。,As kids we had all kinds of toys. Now children seem to have only big phones and iPads.,子どもの頃は色んなおもちゃがあったのに、今の子は大きなスマホとiPadだけのようだ。,sports,,common,,,,,,,,,,,,,
+298,花切,Cardistry,Cardistry,要不要来尝试一下你的手指灵活度的极限？,Want to test the limits of your finger agility?,指先の器用さの限界に挑戦してみない？,skills,,rare,,,,,,,,,,,,,
+299,拼完一幅拼图,Completing A Puzzle,パズルを完成する,有一个拼图名字叫“纯白地狱”，快去试试吧。,There’s one puzzle called “Pure White Hell.” Go give it a try.,「純白地獄」というパズルがある。ぜひ挑戦してみて。,quest,,common,,,,,,,,,,,,,
+300,修好一样东西,Fixing Something,何かを修理する,计划性报废和消费主义让我们相信更新的总是更好，甚至忘了东西坏了是可以修的。,Planned obsolescence and consumerism make us forget that broken things can be repaired.,計画的陳腐化と消費主義で、故障した物が直せることを忘れてしまう。,skills,,common,,,,,,,,,,,,,
+301,一幅眼镜,A Pair Of Glasses,眼鏡,你是从什么时候开始近视的？我曾经视它为勋章：好像戴上它就因此变得博学、智识。长大了之后却想方设法把它摘下，好让我看着运动、开朗。,When did you become nearsighted? I once wore it as a badge of honor; now I want to take it off and see clearly again.,いつから近視になった？かつては勲章のように思えたが、大人になると外してクリアに見たくなる。,life,,common,,,,,,,,,,,,,
+302,窑一只鸡,Roasting A Chicken In A Kiln,窯で鶏を焼く,搭好一个土堆，把鸡用荷叶再套上一层锡箔纸包裹好，只消静悄悄地等待……,"Heap a mound of coals, wrap the chicken in lotus leaves and foil, then wait in silence…",土を盛り、蓮の葉とホイルで鶏を包み、静かに待つだけ…,quest,,common,TRUE,,,,,,,,,,,,
+303,剑道,Kendo,剣道,高举竹剑，在狂风暴雨般的进攻中寻得心灵的宁静。,Raise the bamboo sword high and find peace of mind amid the storm of strikes.,竹剣を高く掲げ、猛攻の中に心の静寂を見出す。,sports,,rare,,,,,,,,,,,,,
+304,击剑,Fencing,フェンシング,穿刺，跳跃，一击制胜。,"Thrust, leap, one strike to win.",突き、飛躍、一撃必勝。,sports,,rare,TRUE,,,,,,,,,,,,
+305,穿古代盔甲,Wearing Armor,古代の鎧を着る,穿上才知道盔甲是这样沉甸甸，光是移动就已费劲力气，更难想象古时候的将军在战场上如何横冲直撞。,Only when you done it you feel its weight. Imagine generals charging into battle in such gear.,着て初めてその重さが分かる。将軍たちが戦場を駆け抜けた姿が想像される。,quest,,rare,,,,,,,,,,,,,
+306,枕头大战,Pillow Fight,枕投げ,听上去很幼稚，但这是成年人才会玩的游戏。有时候，成年人需要比小孩更小孩。,"It may sound childish, but adults need to play too. Sometimes more childlike than children.",幼稚に聞こえるが、大人こそ遊ぶべきときもある。子ども以上に童心に帰れる。,quest,,common,,,,,,,,,,,,,
+307,瑜伽,Yoga,ヨガ,第一次尝试身体会嘎吱作响，平衡会摇摇晃晃，但只要坚持下去，你就会看到更好的自己。,"At first your body creaks and balance wobbles, but persevere and you’ll discover a better you.",初めは体が軋み、バランスが揺れるが、続ければもっと良い自分に出会える。,sports,,common,,,,,,,,,,,,,
+308,相亲,Blind Date,お見合い,坐下，我看着对方，对方也在审视我。我们交换了条件，颇有默契地演完。我没看上他，他也没看上我。,"You sit across from each other, exchanging glances. Neither of you had a crush, yet both understood.",相対し、条件を交わし、演じきる。どちらも選ばれずとも、通じ合う。,life,,common,,,,,,,,,,,,,
+309,在海边放烟花,Beach Fireworks,海辺で花火をする,把相机放到两三米开外，打开曝光，用烟花去画画。,"Set the camera two or three meters away, open the shutter, and paint with fireworks.",カメラを数メートル離して固定し、シャッターを開けて花火で絵を描く。,quest,,common,,,,,,,,,,,,,
+310,和陌生人一起旅行,Traveling With Strangers,見知らぬ人と旅をする,见面前有无数或浪漫或紧张的想象。,Countless romantic or tense imaginings before you even meet.,出会う前に、無数のロマンや緊張を想像する。,quest,,common,,,,,,,,,,,,,
+311,放弃擅长的领域重新开始,Abandoning Your Expertise And Starting Over,得意分野を捨てて新たに始める,我知道这需要多大的勇气，在别人的目光下笨手笨脚地开始一切。我希望这个新的领域是你所热爱的，既然这样，那就只管向前。,"I know it takes courage to fumble under others’ gazes. If you love this new field, just move forward.",人目の中で手探りから始める勇気を知っている。新しい道が好きなら、ただ前へ。,career,,rare,,,,,,,,,,,,,
+312,拒绝潜规则,Rejecting The Unspoken Rules,見えざるルールを拒否する,NO就是NO。,NO means NO.,NOはNO。,life,,rare,,,,,,,,,,,,,
+313,成为公民,Becoming A Citizen,市民になる,有些人与生俱来，有些人需一掷千金，有些人需双手合十满心祈祷，有些人需机关算尽不惜昧着良心，有些人需像老鼠一样躲闪，都只为了一张卡片。,"Some are born citizens, some spend fortunes, some pray with hands clasped, some scheme unscrupulously — just to get the card.",市民は生まれながらの者もいれば、大金を投じる者も、祈る者も、手段を選ばぬ者もいる—たった一枚のカードのために。,life,,rare,,,,,,,,,,,,,
+314,汽车改装,Car Modification,車を改造する,改个颜色也是汽车改装。,Even changing a color is car modification.,色を変えるだけでもカスタムだ。,quest,,common,TRUE,,,,,,,,,,,,
+315,拍云,Cloud Photography,雲を撮影する,五月的深圳云朵低矮又饱满，和蓝色的天空形成了鲜明的对比，它们有的立体，聚成一团；有的稀疏，散成一片。配上绿地和花花绿绿的衣服，活脱脱一副漫画景象。,"The clouds in Shenzhen in May hang low and full against the blue sky. Some billow in clusters, some thinly scattered like a comic scene with green parks and colorful clothes.",五月の深圳の雲は低く膨らみ、青空と鮮やかな対比を成す。緑地やカラフルな服と相まって、まるで漫画の一コマ。,quest,,common,,,,,,,,,,,,,
+316,看龙舟比赛,Watch A Dragon Boat Race,ドラゴンボートレースを観戦する,他们打鼓整齐划一，在水面划出笔直的线。,"They beat the drums in perfect unison, carving straight lines across the water.",彼らの太鼓は完璧に揃っていて、水面に真っ直ぐな線を描いていた。,quest,,common,,,,,,,,,,,,,
+317,周五电影夜,Friday Movie Night,金曜映画ナイト,距离下班还有十五分钟，就把电脑屏幕关上。已经预约好了餐厅，打扮得漂漂亮亮地出席。回到家，电影4K蓝光也早就准备好，盖上毯子，在舒适的角落里窝着。,"Fifteen minutes before clocking out, I shut down the screen. Dinner’s booked, outfit’s on point. The 4K Blu-ray is queued up—blanket ready, curled up in my favorite corner.",退勤15分前にパソコンを閉じた。レストランは予約済み、服もばっちり。家に帰ると4Kブルーレイがスタンバイ、ブランケットをかけてお気に入りの角で丸くなる。,quest,,common,,,,,,,,,,,,,
+318,把菜单上不存在的东西点出来,Order Something That’s Not On The Menu,メニューにない料理を注文する,他说没有，我说可以有，他说真没有，我说必须有。最后，就这样端上来了。,"He said, “It’s not on the menu.” I said, “But it can be.” He insisted. I insisted harder. Then it arrived, just like that.",「ない」と言われたけど、「あるはず」と返した。「本当にない」と言われたけど、「絶対ある」と押し切った。結果、それは出てきた。,quest,,rare,,,,,,,,,,,,,
+319,在地铁上看纸质书,Read A Physical Book On The Subway,地下鉄で紙の本を読む,就当我是在装逼吧，可是快节奏地玩手机信息像是光点闪烁般闪过大脑皮层，激烈的刺激过后什么都剩不下。,"Call it pretentious, but frantic scrolling on your phone feels like flashing sparks across the cortex—once the fireworks are over, nothing remains.",「かっこつけてる」と言われるかも。でもスマホの高速スクロールはまるで大脳皮質を光の点が通り過ぎていく感じ。刺激の後には何も残らない。,quest,,common,,,,,,,,,,,,,
+320,在山顶喝酒,Drink Alcohol On A Mountaintop,山頂でお酒を飲む,站在雪山顶，来时的风、雪、冰、寒已经抛在脑后，眼前的是属于登顶者的嘉奖。从包里摸出香槟和酒杯，斟上一杯，敬远方。,"At the top of the snowy mountain, I forget the wind, snow, and cold. Out comes the champagne and glasses. I pour a drink—for the journey, for the summit.",雪山の頂上に立てば、風も雪も寒さも忘れる。リュックからシャンパンとグラスを出して、一杯注ぐ。それは遠くへの敬意。,quest,,rare,,,,,,,,,,,,,
+321,成为终身教授,Become A Tenured Professor,終身教授になる,穿过那扇门，就是终生的保障、衣食无忧和社会地位；穿不过，就是发表期刊的蹉跎。,"Past that door lies tenure, security, and prestige. Fail to pass, and it’s back to the grind of peer reviews and publish-or-perish.",その扉をくぐれば、終身雇用と安定と社会的地位が待っている。くぐれなければ、延々と続く論文と査読の繰り返しがあるだけだ。,career,,rare,,,,,,,,,,,,,
+322,,,,,,,,,,,,,,,,,,,,,,
+323,,,,,,,,,,,,,,,,,,,,,,
+324,,,,,,,,,,,,,,,,,,,,,,
+325,,,,,,,,,,,,,,,,,,,,,,

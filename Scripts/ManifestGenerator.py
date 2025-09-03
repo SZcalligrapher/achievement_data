@@ -89,15 +89,15 @@ if __name__ == "__main__":
     changed_files = get_changed_files(old_manifest, new_manifest)
 
     if changed_files:
-        # 重新generate一次以防错误
-        generate_manifest(ROOT_DIR)
+        # 保存最新 manifest.json
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            json.dump(new_manifest, f, indent=2, ensure_ascii=False)
+
         # 把 manifest.json 本身也加入上传列表
         changed_files.append("manifest.json")
         upload_to_oss(changed_files)
 
-        # 保存最新 manifest.json
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-            json.dump(new_manifest, f, indent=2, ensure_ascii=False)
         print(f"✅ manifest.json 已更新并上传，共 {len(changed_files)} 个文件变化")
     else:
         print("⚠️ 没有文件变化，跳过上传")
+

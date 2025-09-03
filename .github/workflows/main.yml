@@ -1,5 +1,5 @@
 # .github/workflows/update-manifest.yml
-name: Update Manifest
+name: Update Manifest and Upload to OSS
 
 on:
   push:
@@ -15,32 +15,45 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Checkout 仓库
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           persist-credentials: false   # 不使用默认只读 token
 
+      # 2. 设置 Python 环境
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
-      - name: Generate manifest.json
+      # 3. 安装 ossutil
+      - name: Install ossutil
+        run: |
+          curl -o ossutil64 https://gosspublic.alicdn.com/ossutil/1.7.6/ossutil64
+          chmod +x ossutil64
+          sudo mv ossutil64 /usr/local/bin/ossutil
+
+      # 4. 生成 manifest.json 并上传 OSS
+      - name: Generate manifest and upload to OSS
+        env:
+          OSS_BUCKET: ${{ secrets.OSS_BUCKET }}
+          OSS_ENDPOINT: ${{ secrets.OSS_ENDPOINT }}
+          OSS_ACCESS_KEY_ID: ${{ secrets.OSS_ACCESS_KEY_ID }}
+          OSS_ACCESS_KEY_SECRET: ${{ secrets.OSS_ACCESS_KEY_SECRET }}
         run: |
           python Scripts/ManifestGenerator.py
 
-      - name: Commit and push changes if any
+      # 5. Commit & push manifest.json 如果有变化
+      - name: Commit and push manifest if changed
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # 检查 manifest.json 是否有变动
           git add manifest.json
           if git diff --cached --quiet; then
-            echo "No changes in manifest.json, skipping commit."
+            echo "manifest.json 没有变化，跳过提交"
           else
             git commit -m "chore: update manifest.json"
             git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
-          fi

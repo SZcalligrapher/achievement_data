@@ -34,7 +34,7 @@ jobs:
           chmod +x ossutil64
           sudo mv ossutil64 /usr/local/bin/ossutil
 
-      # 4. 生成 manifest.json 并上传 OSS
+      # 4. 生成 manifest.json 并上传到 OSS（增量上传）
       - name: Generate manifest and upload to OSS
         env:
           OSS_BUCKET: ${{ secrets.OSS_BUCKET }}
@@ -51,9 +51,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add manifest.json
           if git diff --cached --quiet; then
             echo "manifest.json 没有变化，跳过提交"
           else
             git commit -m "chore: update manifest.json"
             git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git main
+          fi

@@ -74,6 +74,7 @@ def upload_to_oss(files):
             "cp",
             local_path,
             oss_path,
+            "-f",
             "-e", OSS_ENDPOINT,
             "-i", OSS_ACCESS_KEY_ID,
             "-k", OSS_ACCESS_KEY_SECRET

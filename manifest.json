@@ -1,5 +1,5 @@
 {
-  "version": "20251103-091122",
+  "version": "20251107-050540",
   "files": {
     "AchievementData.csv": {
       "hash": "3e0bbb7955f76cf6b8651c2ae03f8e0a",
@@ -344,6 +344,10 @@
     "Posters/poster_217.jpg": {
       "hash": "4f4c4aeaaeefe3330b5e79f6024a6a9d",
       "size": 1291008
+    },
+    "Posters/poster_443.jpg": {
+      "hash": "5e0ddf0cce67a86053b3bb3d43b9794a",
+      "size": 56572
     },
     "Posters/poster_387.jpg": {
       "hash": "ee7d7b87202f0117644fc6f1498636d6",
